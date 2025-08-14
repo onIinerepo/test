@@ -54,7 +54,7 @@ https://l02.dp.sooka.my/5100/linear/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
-#EXTINF:-1 tvg-id="804.astro" ch-number="804" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arenabola.png" group-title="MALAYSIA",804 ARENA BOLA 2
+#EXTINF:-1 tvg-id="804.astro" ch-number="804" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arenabola2.png" group-title="MALAYSIA",804 ARENA BOLA 2
 https://l02.dp.sooka.my/5100/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -76,8 +76,8 @@ https://l03.dp.sooka.my/2701/linear/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
-#EXTINF:-1 ch-number="811" tvg-id="811.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/grandstand.png",811 PREMIER LEAGUE
-https://l03.dp.sooka.my/2701/linear/index.mpd
+#EXTINF:-1 ch-number="811" tvg-id="811.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague.png",811 PREMIER LEAGUE
+https://l01.dp.sooka.my/601/linear/index.mpd
 
 
 
@@ -87,7 +87,7 @@ https://l03.dp.sooka.my/2701/linear/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
-#EXTINF:-1 ch-number="812" tvg-id="812.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/grandstand.png",812 PREMIER LEAGUE 2
+#EXTINF:-1 ch-number="812" tvg-id="812.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague2.png",812 PREMIER LEAGUE 2
 https://l02.dp.sooka.my/2104/linear/index.mpd
 
 
