@@ -1,4 +1,4 @@
-#EXTGRP:DaddyLive Pigz
+#EXTM3U
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York group-title="DaddyLive Pigz",.NY.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/abc.png" group-title="UNITED STATES",ABC USA
@@ -2741,3 +2741,4 @@ https://auraserver.short.gy/yesnetworkusa.m3u8
 
 #EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vtvplus-uruguay.png" group-title="DaddyLive Pigz - URUGUAY",VTV+ Uruguay
 https://auraserver.short.gy/vtvuruguay.m3u8
+
