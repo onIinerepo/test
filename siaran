@@ -1,0 +1,175 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="DetectiveConan" tvg-logo="logo_url" group-title="ANIMATION",Detective Conan the Movie
+http://cfss.cc/cdn/hy/30080236.m3u8
+
+#EXTINF:-1 tvg-id="Naruto" tvg-logo="logo_url" group-title="ANIMATION",Naruto
+http://cfss.cc/cdn/hy/29465866.m3u8
+
+#EXTINF:-1 tvg-id="OnePiece" tvg-logo="logo_url" group-title="ANIMATION",One Piece
+http://cfss.cc/cdn/hy/29982634.m3u8
+
+#EXTINF:-1 tvg-id="HayaoMiyazaki" tvg-logo="logo_url" group-title="ANIMATION",Hayao Miyazaki series
+http://cfss.cc/cdn/hy/21059614.m3u8
+
+#EXTINF:-1 tvg-id="KurokoBasketball" tvg-logo="logo_url" group-title="ANIMATION",Kuroko's Basketball
+http://cfss.cc/cdn/hy/30080253.m3u8
+
+#EXTINF:-1 tvg-id="RickAndMorty" tvg-logo="logo_url" group-title="ANIMATION",Rick and Morty
+http://cfss.cc/cdn/hy/29982655.m3u8
+
+#EXTINF:-1 tvg-id="StellarTransformation" tvg-logo="logo_url" group-title="ANIMATION",Stellar Transformation
+http://cfss.cc/cdn/hy/24514506.m3u8
+
+#EXTINF:-1 tvg-id="JackieChanAdventures" tvg-logo="logo_url" group-title="ANIMATION",Jackie Chan Adventures
+http://cfss.cc/cdn/hy/11352946.m3u8
+
+#EXTINF:-1 tvg-id="PowerpuffGirls" tvg-logo="logo_url" group-title="ANIMATION",The Powerpuff Girls
+http://cfss.cc/cdn/hy/11601958.m3u8
+
+#EXTINF:-1 tvg-id="CrayonShinchan" tvg-logo="logo_url" group-title="ANIMATION",Crayon Shin-chan
+http://cfss.cc/cdn/hy/11352970.m3u8
+
+#EXTINF:-1 tvg-id="ChibiMaruko" tvg-logo="logo_url" group-title="ANIMATION",Chibi Maruko-chan
+http://cfss.cc/cdn/hy/11342394.m3u8
+
+#EXTINF:-1 tvg-id="TomAndJerry" tvg-logo="logo_url" group-title="ANIMATION",Tom and Jerry
+http://cfss.cc/cdn/hy/11352879.m3u8
+
+#EXTINF:-1 tvg-id="DragonBall" tvg-logo="logo_url" group-title="ANIMATION",Dragon Ball
+http://cfss.cc/cdn/hy/11601966.m3u8
+
+#EXTINF:-1 tvg-id="KingsAvatar" tvg-logo="logo_url" group-title="ANIMATION",The King's Avatar
+http://cfss.cc/cdn/hy/21059628.m3u8
+
+#EXTINF:-1 tvg-id="Doraemon" tvg-logo="logo_url" group-title="ANIMATION",Doraemon
+http://cfss.cc/cdn/hy/11601963.m3u8
+
+#EXTINF:-1 tvg-id="SpongeBob" tvg-logo="logo_url" group-title="ANIMATION",SpongeBob SquarePants
+http://cfss.cc/cdn/hy/11352919.m3u8
+
+#EXTINF:-1 tvg-id="MagicalGirl" tvg-logo="logo_url" group-title="ANIMATION",Magical Girl
+http://cfss.cc/cdn/hy/21059587.m3u8
+
+#EXTINF:-1 tvg-id="HunterXHunter" tvg-logo="logo_url" group-title="ANIMATION",Hunter x Hunter
+http://cfss.cc/cdn/hy/30080254.m3u8
+
+#EXTINF:-1 tvg-id="Beyblade" tvg-logo="logo_url" group-title="ANIMATION",Beyblade
+http://cfss.cc/cdn/hy/11352922.m3u8
+
+#EXTINF:-1 tvg-id="AboveOnePerson" tvg-logo="logo_url" group-title="ANIMATION",Above One Person
+http://cfss.cc/cdn/hy/11602065.m3u8
+
+#EXTINF:-1 tvg-id="InitialD" tvg-logo="logo_url" group-title="ANIMATION",Initial D
+http://cfss.cc/cdn/hy/11352889.m3u8
+
+#EXTINF:-1 tvg-id="PrinceOfTennis" tvg-logo="logo_url" group-title="ANIMATION",The Prince of Tennis
+http://cfss.cc/cdn/hy/11352882.m3u8
+
+#EXTINF:-1 tvg-id="JackieChan" tvg-logo="logo_url" group-title="MOVIE",Jackie Chan
+http://cfss.cc/cdn/hy/11342386.m3u8
+
+#EXTINF:-1 tvg-id="HuangBo" tvg-logo="logo_url" group-title="MOVIE",Huang Bo
+http://cfss.cc/cdn/hy/11352876.m3u8
+
+#EXTINF:-1 tvg-id="ShenTeng" tvg-logo="logo_url" group-title="MOVIE",Shen Teng
+http://cfss.cc/cdn/hy/11601968.m3u8
+
+#EXTINF:-1 tvg-id="WangJing" tvg-logo="logo_url" group-title="MOVIE",Wang Jing
+http://cfss.cc/cdn/hy/11602058.m3u8
+
+#EXTINF:-1 tvg-id="StephenChow" tvg-logo="logo_url" group-title="MOVIE",Stephen Chow
+http://cfss.cc/cdn/hy/11336587.m3u8
+
+#EXTINF:-1 tvg-id="JetLi" tvg-logo="logo_url" group-title="MOVIE",Jet Li
+http://cfss.cc/cdn/hy/11342390.m3u8
+
+#EXTINF:-1 tvg-id="AndyLau" tvg-logo="logo_url" group-title="MOVIE",Andy Lau
+http://cfss.cc/cdn/hy/11342424.m3u8
+
+#EXTINF:-1 tvg-id="ChowYunFat" tvg-logo="logo_url" group-title="MOVIE",Chow Yun-fat
+http://cfss.cc/cdn/hy/11342387.m3u8
+
+#EXTINF:-1 tvg-id="JoyOfLife" tvg-logo="logo_url" group-title="MOVIE",Joy of Life
+http://cfss.cc/cdn/hy/11352960.m3u8
+
+#EXTINF:-1 tvg-id="TheUntamed" tvg-logo="logo_url" group-title="MOVIE",The Untamed
+http://cfss.cc/cdn/hy/29465862.m3u8
+
+#EXTINF:-1 tvg-id="LouisKoo" tvg-logo="logo_url" group-title="MOVIE",Louis Koo
+http://cfss.cc/cdn/hy/29982675.m3u8
+
+#EXTINF:-1 tvg-id="DonnieYen" tvg-logo="logo_url" group-title="MOVIE",Donnie Yen
+http://cfss.cc/cdn/hy/11352935.m3u8
+
+#EXTINF:-1 tvg-id="InvestitureOfTheGods" tvg-logo="logo_url" group-title="MOVIE",Investiture of the Gods
+http://cfss.cc/cdn/hy/23749096.m3u8
+
+#EXTINF:-1 tvg-id="TheDeerAndTheCauldron" tvg-logo="logo_url" group-title="MOVIE",The Deer and the Cauldron
+http://cfss.cc/cdn/hy/23865080.m3u8
+
+#EXTINF:-1 tvg-id="AStepIntoThePast" tvg-logo="logo_url" group-title="MOVIE",A Step into the Past
+http://cfss.cc/cdn/hy/23864973.m3u8
+
+#EXTINF:-1 tvg-id="TheRecordOfClearingWrongs" tvg-logo="logo_url" group-title="MOVIE",The Record of Clearing Wrongs
+http://cfss.cc/cdn/hy/23903130.m3u8
+
+#EXTINF:-1 tvg-id="Genesis" tvg-logo="logo_url" group-title="MOVIE",Genesis
+http://cfss.cc/cdn/hy/23749083.m3u8
+
+#EXTINF:-1 tvg-id="GreatEra" tvg-logo="logo_url" group-title="MOVIE",Great Era
+http://cfss.cc/cdn/hy/23865161.m3u8
+
+#EXTINF:-1 tvg-id="LiuZhouJi" tvg-logo="logo_url" group-title="MOVIE",Liu Zhou Ji
+http://cfss.cc/cdn/hy/23860039.m3u8
+
+#EXTINF:-1 tvg-id="TheQinEmpire" tvg-logo="logo_url" group-title="MOVIE",The Qin Empire
+http://cfss.cc/cdn/hy/23903130.m3u8
+
+#EXTINF:-1 tvg-id="MovieMartialArts" tvg-logo="logo_url" group-title="MOVIE",Movie_Martial Arts
+http://cfss.cc/cdn/hy/11342427.m3u8
+
+#EXTINF:-1 tvg-id="TomAndJerryAnimation" tvg-logo="logo_url" group-title="ANIMATION",Tom and Jerry Animation
+http://cfss.cc/cdn/hy/11352879.m3u8
+
+#EXTINF:-1 tvg-id="MovieChinese" tvg-logo="logo_url" group-title="MOVIE",Movie_Chinese
+http://cfss.cc/cdn/hy/11352973.m3u8
+
+#EXTINF:-1 tvg-id="MovieNoCrowdedCinema" tvg-logo="logo_url" group-title="MOVIE",Movie_No Crowded Cinema
+http://cfss.cc/cdn/hy/11352897.m3u8
+
+#EXTINF:-1 tvg-id="MovieHighScoreAction" tvg-logo="logo_url" group-title="MOVIE",Movie_High Score Action
+http://cfss.cc/cdn/hy/11352884.m3u8
+
+#EXTINF:-1 tvg-id="MovieHappyCinema" tvg-logo="logo_url" group-title="MOVIE",Movie_Happy Cinema
+http://cfss.cc/cdn/hy/21059580.m3u8
+
+#EXTINF:-1 tvg-id="BrightSword" tvg-logo="logo_url" group-title="MOVIE",Bright Sword
+http://cfss.cc/cdn/hy/30080238.m3u8
+
+#EXTINF:-1 tvg-id="SnowLeopard" tvg-logo="logo_url" group-title="MOVIE",Snow Leopard
+http://cfss.cc/cdn/hy/29580970.m3u8
+
+#EXTINF:-1 tvg-id="GorgeousJade" tvg-logo="logo_url" group-title="CHANNEL",Gorgeous Jade
+https://sib.sld.tw/Smart.php?id=Tvbjade
+
+#EXTINF:-1 tvg-id="JadeChannel" tvg-logo="logo_url" group-title="CHANNEL",Jade Channel
+https://sib.sld.tw/Smart.php?id=Jade_xue
+
+#EXTINF:-1 tvg-id="TVBPlus" tvg-logo="logo_url" group-title="CHANNEL",TVB Plus
+https://sib.sld.tw/Smart.php?id=j2_twn
+
+#EXTINF:-1 tvg-id="PhoenixTV" tvg-logo="logo_url" group-title="CHANNEL",Phoenix TV
+https://sib.sld.tw/Smart.php?id=phoenixtv_hd
+
+#EXTINF:-1 tvg-id="RTHK32" tvg-logo="logo_url" group-title="CHANNEL",RTHK32
+https://sib.sld.tw/Smart.php?id=rhk32_twn
+
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="logo_url" group-title="CHANNEL",Discovery Channel
+https://sib.sld.tw/Smart.php?id=ba86fcd935
+
+#EXTINF:-1 tvg-id="CNN" tvg-logo="logo_url" group-title="NEWS",CNN
+https://sib.sld.tw/Smart.php?id=cnn_twn
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="logo_url" group-title="MOVIE",HBO
+https://sib.sld.tw/Smart.php?id=huanyutaiwan_twn
