@@ -1,0 +1,781 @@
+#EXTM3U
+#EXTINF:-1  tvg-name="A&E US Eastern Feed SD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TVPass",A&E US Eastern Feed SD
+https://auraserver.short.gy/aeeastsd
+#EXTINF:-1  tvg-name="A&E US Eastern Feed HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TVPass",A&E US Eastern Feed HD
+https://auraserver.short.gy/aeeasthd
+#EXTINF:-1  tvg-name="ABC (KABC) Los Angeles SD" tvg-id="abc-kabc-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",ABC (KABC) Los Angeles SD
+https://auraserver.short.gy/abckabclosangelescasd
+#EXTINF:-1  tvg-name="ABC (KABC) Los Angeles HD" tvg-id="abc-kabc-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",ABC (KABC) Los Angeles HD
+https://auraserver.short.gy/abckabclosangelescahd
+#EXTINF:-1  tvg-name="ABC (WABC) New York " tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY SD
+https://auraserver.short.gy/wnetsd
+#EXTINF:-1  tvg-name="ABC (WABC) New York" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY HD
+https://auraserver.short.gy/wnethd
+#EXTINF:-1  tvg-name="ACC Network SD" tvg-id="acc-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="TVPass",ACC Network SD
+https://auraserver.short.gy/accnetworksd
+#EXTINF:-1  tvg-name="ACC Network HD" tvg-id="acc-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="TVPass",ACC Network HD
+https://auraserver.short.gy/accnetworkhd
+#EXTINF:-1  tvg-name="Altitude Sports Denver SD" tvg-id="altitude-sports-denver" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="TVPass",Altitude Sports Denver SD
+https://auraserver.short.gy/altitudesportsdenversd
+#EXTINF:-1  tvg-name="Altitude Sports Denver HD" tvg-id="altitude-sports-denver" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="TVPass",Altitude Sports Denver HD
+https://auraserver.short.gy/altitudesportsdenverhd
+#EXTINF:-1  tvg-name="AMC Eastern Feed SD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TVPass",AMC Eastern Feed SD
+https://auraserver.short.gy/amceastsd
+#EXTINF:-1  tvg-name="AMC Eastern Feed HD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TVPass",AMC Eastern Feed HD
+https://auraserver.short.gy/amceasthd
+#EXTINF:-1  tvg-name="American Heroes Channel SD" tvg-id="american-heroes-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" group-title="TVPass",American Heroes Channel SD
+https://auraserver.short.gy/americanheroeschannelsd
+#EXTINF:-1  tvg-name="American Heroes Channel HD" tvg-id="american-heroes-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" group-title="TVPass",American Heroes Channel HD
+https://auraserver.short.gy/americanheroeschannelhd
+#EXTINF:-1  tvg-name="Animal Planet US East SD" tvg-id="animal-planet-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" group-title="TVPass",Animal Planet US East SD
+https://auraserver.short.gy/animalplaneteastsd
+#EXTINF:-1  tvg-name="Animal Planet US East HD" tvg-id="animal-planet-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" group-title="TVPass",Animal Planet US East HD
+https://auraserver.short.gy/animalplaneteasthd
+#EXTINF:-1  tvg-name="BBC America East SD" tvg-id="bbc-america-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="TVPass",BBC America East SD
+https://auraserver.short.gy/bbcamericaeastsd
+#EXTINF:-1  tvg-name="BBC America East HD" tvg-id="bbc-america-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="TVPass",BBC America East HD
+https://auraserver.short.gy/bbcamericaeasthd
+#EXTINF:-1  tvg-name="BBC News North America HD SD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" group-title="TVPass",BBC News North America HD SD
+https://auraserver.short.gy/bbcworldnewsnorthamericasd
+#EXTINF:-1  tvg-name="BBC News North America HD HD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" group-title="TVPass",BBC News North America HD HD
+https://auraserver.short.gy/bbcworldnewsnorthamericahd
+#EXTINF:-1  tvg-name="BET Eastern Feed SD" tvg-id="bet-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" group-title="TVPass",BET Eastern Feed SD
+https://auraserver.short.gy/beteastsd
+#EXTINF:-1  tvg-name="BET Eastern Feed HD" tvg-id="bet-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" group-title="TVPass",BET Eastern Feed HD
+https://auraserver.short.gy/beteasthd
+#EXTINF:-1  tvg-name="BET Her SD" tvg-id="bet-her" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-her-us.png?raw=true" group-title="TVPass",BET Her SD
+https://auraserver.short.gy/bethereastsd
+#EXTINF:-1  tvg-name="BET Her HD" tvg-id="bet-her" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-her-us.png?raw=true" group-title="TVPass",BET Her HD
+https://auraserver.short.gy/bethereasthd
+#EXTINF:-1  tvg-name="Big Ten Network SD" tvg-id="big-ten-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="TVPass",Big Ten Network SD
+https://auraserver.short.gy/btnsd
+#EXTINF:-1  tvg-name="Big Ten Network HD" tvg-id="big-ten-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="TVPass",Big Ten Network HD
+https://auraserver.short.gy/btnhd
+#EXTINF:-1  tvg-name="Bloomberg TV USA SD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="TVPass",Bloomberg TV USA SD
+https://auraserver.short.gy/bloombergtvsd
+#EXTINF:-1  tvg-name="Bloomberg TV USA HD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="TVPass",Bloomberg TV USA HD
+https://auraserver.short.gy/bloombergtvhd
+#EXTINF:-1  tvg-name="Boomerang SD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TVPass",Boomerang SD
+https://auraserver.short.gy/boomerangsd
+#EXTINF:-1  tvg-name="Boomerang HD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TVPass",Boomerang HD
+https://auraserver.short.gy/boomeranghd
+#EXTINF:-1  tvg-name="Bravo USA Eastern Feed SD" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" group-title="TVPass",Bravo USA Eastern Feed SD
+https://auraserver.short.gy/bravoeastsd
+#EXTINF:-1  tvg-name="Bravo USA Eastern Feed HD" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" group-title="TVPass",Bravo USA Eastern Feed HD
+https://auraserver.short.gy/bravoeasthd
+#EXTINF:-1  tvg-name="C-SPAN SD" tvg-id="cspan" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="TVPass",C-SPAN SD
+https://auraserver.short.gy/cspansd
+#EXTINF:-1  tvg-name="C-SPAN HD" tvg-id="cspan" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="TVPass",C-SPAN HD
+https://auraserver.short.gy/cspanhd
+#EXTINF:-1  tvg-name="C-SPAN 2 SD" tvg-id="cspan-2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-2-us.png?raw=true" group-title="TVPass",C-SPAN 2 SD
+https://auraserver.short.gy/cspan2sd
+#EXTINF:-1  tvg-name="C-SPAN 2 HD" tvg-id="cspan-2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-2-us.png?raw=true" group-title="TVPass",C-SPAN 2 HD
+https://auraserver.short.gy/cspan2hd
+#EXTINF:-1  tvg-name="Cartoon Network USA Eastern Feed SD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="TVPass",Cartoon Network USA Eastern Feed SD
+https://auraserver.short.gy/cartoonnetworkeastsd
+#EXTINF:-1  tvg-name="Cartoon Network USA Eastern Feed HD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="TVPass",Cartoon Network USA Eastern Feed HD
+https://auraserver.short.gy/cartoonnetworkeasthd
+#EXTINF:-1  tvg-name="CBS (KCBS) Los Angeles SD" tvg-id="cbs-kcbs-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",CBS (KCBS) Los Angeles SD
+https://auraserver.short.gy/cbskcbslosangelescasd
+#EXTINF:-1  tvg-name="CBS (KCBS) Los Angeles HD" tvg-id="cbs-kcbs-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",CBS (KCBS) Los Angeles HD
+https://auraserver.short.gy/cbskcbslosangelescahd
+#EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",NY SD
+https://auraserver.short.gy/wnetsd
+#EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",NY HD
+https://auraserver.short.gy/wnethd
+#EXTINF:-1  tvg-name="CBS Sports Network USA SD" tvg-id="cbs-sports-network-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" group-title="TVPass",CBS Sports Network USA SD
+https://auraserver.short.gy/cbssportsnetworkusasd
+#EXTINF:-1  tvg-name="CBS Sports Network USA HD" tvg-id="cbs-sports-network-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" group-title="TVPass",CBS Sports Network USA HD
+https://auraserver.short.gy/cbssportsnetworkusahd
+#EXTINF:-1  tvg-name="Chicago Sports Network SD" tvg-id="chicago-sports-network" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/ChicagoSportsNetwork.png" group-title="TVPass",Chicago Sports Network SD
+https://auraserver.short.gy/chicagosportsnetworksd
+#EXTINF:-1  tvg-name="Chicago Sports Network HD" tvg-id="chicago-sports-network" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/ChicagoSportsNetwork.png" group-title="TVPass",Chicago Sports Network HD
+https://auraserver.short.gy/chicagosportsnetworkhd
+#EXTINF:-1  tvg-name="Cinemax Eastern Feed SD" tvg-id="cinemax-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="TVPass",Cinemax Eastern Feed SD
+https://auraserver.short.gy/cinemaxeastsd
+#EXTINF:-1  tvg-name="Cinemax Eastern Feed HD" tvg-id="cinemax-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="TVPass",Cinemax Eastern Feed HD
+https://auraserver.short.gy/cinemaxeasthd
+#EXTINF:-1  tvg-name="CMT US Eastern Feed SD" tvg-id="cmt-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-color-us.png?raw=true" group-title="TVPass",CMT US Eastern Feed SD
+https://auraserver.short.gy/cmteastsd
+#EXTINF:-1  tvg-name="CMT US Eastern Feed HD" tvg-id="cmt-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-color-us.png?raw=true" group-title="TVPass",CMT US Eastern Feed HD
+https://auraserver.short.gy/cmteasthd
+#EXTINF:-1  tvg-name="CNBC USA SD" tvg-id="cnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" group-title="TVPass",CNBC USA SD
+https://auraserver.short.gy/cnbcsd
+#EXTINF:-1  tvg-name="CNBC USA HD" tvg-id="cnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" group-title="TVPass",CNBC USA HD
+https://auraserver.short.gy/cnbchd
+#EXTINF:-1  tvg-name="CNN US SD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TVPass",CNN US SD
+https://auraserver.short.gy/cnnsd
+#EXTINF:-1  tvg-name="CNN US HD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TVPass",CNN US HD
+https://auraserver.short.gy/cnnhd
+#EXTINF:-1  tvg-name="Comedy Central (US) Eastern Feed SD" tvg-id="comedy-central-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-icon-us.png?raw=true" group-title="TVPass",Comedy Central (US) Eastern Feed SD
+https://auraserver.short.gy/comedycentraleastsd
+#EXTINF:-1  tvg-name="Comedy Central (US) Eastern Feed HD" tvg-id="comedy-central-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-icon-us.png?raw=true" group-title="TVPass",Comedy Central (US) Eastern Feed HD
+https://auraserver.short.gy/comedycentraleasthd
+#EXTINF:-1  tvg-name="Crime & Investigation Network USA HD SD" tvg-id="crime-investigation-network-usa-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="TVPass",Crime & Investigation Network USA HD SD
+https://auraserver.short.gy/crimeplusinvestigationsd
+#EXTINF:-1  tvg-name="Crime & Investigation Network USA HD HD" tvg-id="crime-investigation-network-usa-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="TVPass",Crime & Investigation Network USA HD HD
+https://auraserver.short.gy/crimeplusinvestigationhd
+#EXTINF:-1  tvg-name="CW (KFMB-TV2) San Diego SD" tvg-id="cw-kfmbtv2-san-diego-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="TVPass",CW (KFMB-TV2) San Diego SD
+https://auraserver.short.gy/cwkfmbtv2sandiegocasd
+#EXTINF:-1  tvg-name="CW (KFMB-TV2) San Diego HD" tvg-id="cw-kfmbtv2-san-diego-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="TVPass",CW (KFMB-TV2) San Diego HD
+https://auraserver.short.gy/cwkfmbtv2sandiegocahd
+#EXTINF:-1  tvg-name="CW (WDCW) District of Columbia SD" tvg-id="cw-wdcw-district-of-columbia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="TVPass",CW (WDCW) District of Columbia SD
+https://auraserver.short.gy/cwwdcwdistrictofcolumbiasd
+#EXTINF:-1  tvg-name="CW (WDCW) District of Columbia HD" tvg-id="cw-wdcw-district-of-columbia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="TVPass",CW (WDCW) District of Columbia HD
+https://auraserver.short.gy/cwwdcwdistrictofcolumbiahd
+#EXTINF:-1  tvg-name="Destination America SD" tvg-id="destination-america" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="TVPass",Destination America SD
+https://auraserver.short.gy/destinationamericasd
+#EXTINF:-1  tvg-name="Destination America HD" tvg-id="destination-america" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="TVPass",Destination America HD
+https://auraserver.short.gy/destinationamericahd
+#EXTINF:-1  tvg-name="Discovery Channel (US) Eastern Feed SD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TVPass",Discovery Channel (US) Eastern Feed SD
+https://auraserver.short.gy/discoverychanneleastsd
+#EXTINF:-1  tvg-name="Discovery Channel (US) Eastern Feed HD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TVPass",Discovery Channel (US) Eastern Feed HD
+https://auraserver.short.gy/discoverychanneleasthd
+#EXTINF:-1  tvg-name="Discovery Family Channel SD" tvg-id="discovery-family-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="TVPass",Discovery Family Channel SD
+https://auraserver.short.gy/discoveryfamilysd
+#EXTINF:-1  tvg-name="Discovery Family Channel HD" tvg-id="discovery-family-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="TVPass",Discovery Family Channel HD
+https://auraserver.short.gy/discoveryfamilyhd
+#EXTINF:-1  tvg-name="Discovery Life Channel SD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="TVPass",Discovery Life Channel SD
+https://auraserver.short.gy/discoverylifesd
+#EXTINF:-1  tvg-name="Discovery Life Channel HD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="TVPass",Discovery Life Channel HD
+https://auraserver.short.gy/discoverylifehd
+#EXTINF:-1  tvg-name="Disney Eastern Feed SD" tvg-id="disney-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screen-bug/disney-channel-bug-us.png?raw=true" group-title="TVPass",Disney Eastern Feed SD
+https://auraserver.short.gy/disneychanneleastsd
+#EXTINF:-1  tvg-name="Disney Eastern Feed HD" tvg-id="disney-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screen-bug/disney-channel-bug-us.png?raw=true" group-title="TVPass",Disney Eastern Feed HD
+https://auraserver.short.gy/disneychanneleasthd
+#EXTINF:-1  tvg-name="Disney Junior USA East SD" tvg-id="disney-junior-usa-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="TVPass",Disney Junior USA East SD
+https://auraserver.short.gy/disneyjunioreastsd
+#EXTINF:-1  tvg-name="Disney Junior USA East HD" tvg-id="disney-junior-usa-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="TVPass",Disney Junior USA East HD
+https://auraserver.short.gy/disneyjunioreasthd
+#EXTINF:-1  tvg-name="Disney XD USA Eastern Feed SD" tvg-id="disney-xd-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" group-title="TVPass",Disney XD USA Eastern Feed SD
+https://auraserver.short.gy/disneyxdeastsd
+#EXTINF:-1  tvg-name="Disney XD USA Eastern Feed HD" tvg-id="disney-xd-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" group-title="TVPass",Disney XD USA Eastern Feed HD
+https://auraserver.short.gy/disneyxdeasthd
+#EXTINF:-1  tvg-name="E! Entertainment USA Eastern Feed SD" tvg-id="e-entertainment-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" group-title="TVPass",E! Entertainment USA Eastern Feed SD
+https://auraserver.short.gy/eeastsd
+#EXTINF:-1  tvg-name="E! Entertainment USA Eastern Feed HD" tvg-id="e-entertainment-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" group-title="TVPass",E! Entertainment USA Eastern Feed HD
+https://auraserver.short.gy/eeasthd
+#EXTINF:-1  tvg-name="ESPN SD" tvg-id="espn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true" group-title="TVPass",ESPN SD
+https://auraserver.short.gy/espnsd
+#EXTINF:-1  tvg-name="ESPN HD" tvg-id="espn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true" group-title="TVPass",ESPN HD
+https://auraserver.short.gy/espnhd
+#EXTINF:-1  tvg-name="ESPN Deportes SD" tvg-id="espn-deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-deportes-us.png?raw=true" group-title="TVPass",ESPN Deportes SD
+https://auraserver.short.gy/espndeportessd
+#EXTINF:-1  tvg-name="ESPN Deportes HD" tvg-id="espn-deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-deportes-us.png?raw=true" group-title="TVPass",ESPN Deportes HD
+https://auraserver.short.gy/espndeporteshd
+#EXTINF:-1  tvg-name="ESPN News SD" tvg-id="espn-news" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" group-title="TVPass",ESPN News SD
+https://auraserver.short.gy/espnewssd
+#EXTINF:-1  tvg-name="ESPN News HD" tvg-id="espn-news" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" group-title="TVPass",ESPN News HD
+https://auraserver.short.gy/espnewshd
+#EXTINF:-1  tvg-name="ESPN U SD" tvg-id="espn-u" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" group-title="TVPass",ESPN U SD
+https://auraserver.short.gy/espnusd
+#EXTINF:-1  tvg-name="ESPN U HD" tvg-id="espn-u" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" group-title="TVPass",ESPN U HD
+https://auraserver.short.gy/espnuhd
+#EXTINF:-1  tvg-name="ESPN2 SD" tvg-id="espn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" group-title="TVPass",ESPN2 SD
+https://auraserver.short.gy/espn2sd
+#EXTINF:-1  tvg-name="ESPN2 HD" tvg-id="espn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" group-title="TVPass",ESPN2 HD
+https://auraserver.short.gy/espn2hd
+#EXTINF:-1  tvg-name="Fanduel Sports Indiana SD" tvg-id="fanduel-sports-indiana" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-indiana-us.png?raw=true" group-title="TVPass",Fanduel Sports Indiana SD
+https://auraserver.short.gy/fanduelsportsindianasd
+#EXTINF:-1  tvg-name="Fanduel Sports Indiana HD" tvg-id="fanduel-sports-indiana" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-indiana-us.png?raw=true" group-title="TVPass",Fanduel Sports Indiana HD
+https://auraserver.short.gy/fanduelsportsindianahd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Detroit SD" tvg-id="fanduel-sports-network-detroit-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-detroit-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Detroit SD
+https://auraserver.short.gy/fanduelsportsnetworkdetroithdsd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Detroit HD" tvg-id="fanduel-sports-network-detroit-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-detroit-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Detroit HD
+https://auraserver.short.gy/fanduelsportsnetworkdetroithdhd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Florida SD" tvg-id="fanduel-sports-network-florida" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-florida-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Florida SD
+https://auraserver.short.gy/fanduelsportsnetworkfloridasd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Florida HD" tvg-id="fanduel-sports-network-florida" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-florida-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Florida HD
+https://auraserver.short.gy/fanduelsportsnetworkfloridahd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Great Lakes SD" tvg-id="fanduel-sports-network-great-lakes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-great-lakes-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Great Lakes SD
+https://auraserver.short.gy/fanduelsportsnetworkgreatlakessd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Great Lakes HD" tvg-id="fanduel-sports-network-great-lakes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-great-lakes-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Great Lakes HD
+https://auraserver.short.gy/fanduelsportsnetworkgreatlakeshd
+#EXTINF:-1  tvg-name="Fanduel Sports Network North SD" tvg-id="fanduel-sports-network-north" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-north-us.png?raw=true" group-title="TVPass",Fanduel Sports Network North SD
+https://auraserver.short.gy/fanduelsportsnetworknorthsd
+#EXTINF:-1  tvg-name="Fanduel Sports Network North HD" tvg-id="fanduel-sports-network-north" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-north-us.png?raw=true" group-title="TVPass",Fanduel Sports Network North HD
+https://auraserver.short.gy/fanduelsportsnetworknorthhd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Ohio Cleveland SD" tvg-id="fanduel-sports-network-ohio-cleveland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-ohio-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Ohio Cleveland SD
+https://auraserver.short.gy/fanduelsportsnetworkohioclevelandsd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Ohio Cleveland HD" tvg-id="fanduel-sports-network-ohio-cleveland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-ohio-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Ohio Cleveland HD
+https://auraserver.short.gy/fanduelsportsnetworkohioclevelandhd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Oklahoma SD" tvg-id="fanduel-sports-network-oklahoma" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-oklahoma-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Oklahoma SD
+https://auraserver.short.gy/fanduelsportsnetworkoklahomasd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Oklahoma HD" tvg-id="fanduel-sports-network-oklahoma" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-oklahoma-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Oklahoma HD
+https://auraserver.short.gy/fanduelsportsnetworkoklahomahd
+#EXTINF:-1  tvg-name="Fanduel Sports Network San Diego SD" tvg-id="fanduel-sports-network-san-diego" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-san-diego-us.png?raw=true" group-title="TVPass",Fanduel Sports Network San Diego SD
+https://auraserver.short.gy/fanduelsportsnetworksandiegosd
+#EXTINF:-1  tvg-name="Fanduel Sports Network San Diego HD" tvg-id="fanduel-sports-network-san-diego" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-san-diego-us.png?raw=true" group-title="TVPass",Fanduel Sports Network San Diego HD
+https://auraserver.short.gy/fanduelsportsnetworksandiegohd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Socal SD" tvg-id="fanduel-sports-network-socal" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-socal-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Socal SD
+https://auraserver.short.gy/fanduelsportsnetworksocalsd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Socal HD" tvg-id="fanduel-sports-network-socal" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-socal-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Socal HD
+https://auraserver.short.gy/fanduelsportsnetworksocalhd
+#EXTINF:-1  tvg-name="Fanduel Sports Network South Carolinas SD" tvg-id="fanduel-sports-network-south-carolinas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FanDuel_Sports_Network_South_logo.svg/1200px-FanDuel_Sports_Network_South_logo.svg.png" group-title="TVPass",Fanduel Sports Network South Carolinas SD
+https://auraserver.short.gy/fanduelsportsnetworksouthcarolinassd
+#EXTINF:-1  tvg-name="Fanduel Sports Network South Carolinas HD" tvg-id="fanduel-sports-network-south-carolinas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FanDuel_Sports_Network_South_logo.svg/1200px-FanDuel_Sports_Network_South_logo.svg.png" group-title="TVPass",Fanduel Sports Network South Carolinas HD
+https://auraserver.short.gy/fanduelsportsnetworksouthcarolinashd
+#EXTINF:-1  tvg-name="Fanduel Sports Network South Tennessee SD" tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-south-us.png?raw=true" group-title="TVPass",Fanduel Sports Network South Tennessee SD
+https://auraserver.short.gy/fanduelsportsnetworksouthtennesseeusasd
+#EXTINF:-1  tvg-name="Fanduel Sports Network South Tennessee HD" tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-south-us.png?raw=true" group-title="TVPass",Fanduel Sports Network South Tennessee HD
+https://auraserver.short.gy/fanduelsportsnetworksouthtennesseeusahd
+#EXTINF:-1  tvg-name="Fanduel Sports Network West SD" tvg-id="fanduel-sports-network-west" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-west-us.png?raw=true" group-title="TVPass",Fanduel Sports Network West SD
+https://auraserver.short.gy/fanduelsportsnetworkwestsd
+#EXTINF:-1  tvg-name="Fanduel Sports Network West HD" tvg-id="fanduel-sports-network-west" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-west-us.png?raw=true" group-title="TVPass",Fanduel Sports Network West HD
+https://auraserver.short.gy/fanduelsportsnetworkwesthd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Wisconsin SD" tvg-id="fanduel-sports-network-wisconsin" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-wisconsin-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Wisconsin SD
+https://auraserver.short.gy/fanduelsportsnetworkwisconsinsd
+#EXTINF:-1  tvg-name="Fanduel Sports Network Wisconsin HD" tvg-id="fanduel-sports-network-wisconsin" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-wisconsin-us.png?raw=true" group-title="TVPass",Fanduel Sports Network Wisconsin HD
+https://auraserver.short.gy/fanduelsportsnetworkwisconsinhd
+#EXTINF:-1  tvg-name="Fanduel Sports Southeast Georgia SD" tvg-id="fanduel-sports-southeast-georgia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-southeast-us.png?raw=true" group-title="TVPass",Fanduel Sports Southeast Georgia SD
+https://auraserver.short.gy/fanduelsportssoutheastgeorgiasd
+#EXTINF:-1  tvg-name="Fanduel Sports Southeast Georgia HD" tvg-id="fanduel-sports-southeast-georgia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-southeast-us.png?raw=true" group-title="TVPass",Fanduel Sports Southeast Georgia HD
+https://auraserver.short.gy/fanduelsportssoutheastgeorgiahd
+#EXTINF:-1  tvg-name="Fanduel Sports Southeast North Carolina SD" tvg-id="fanduel-sports-southeast-north-carolina" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-north-us.png?raw=true" group-title="TVPass",Fanduel Sports Southeast North Carolina SD
+https://auraserver.short.gy/fanduelsportssoutheastnorthcarolinasd
+#EXTINF:-1  tvg-name="Fanduel Sports Southeast North Carolina HD" tvg-id="fanduel-sports-southeast-north-carolina" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-north-us.png?raw=true" group-title="TVPass",Fanduel Sports Southeast North Carolina HD
+https://auraserver.short.gy/fanduelsportssoutheastnorthcarolinahd
+#EXTINF:-1  tvg-name="Fanduel Sports Southeast South Carolina SD" tvg-id="fanduel-sports-southeast-south-carolina" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-south-us.png?raw=true" group-title="TVPass",Fanduel Sports Southeast South Carolina SD
+https://auraserver.short.gy/fanduelsportssoutheastsouthcarolinasd
+#EXTINF:-1  tvg-name="Fanduel Sports Southeast South Carolina HD" tvg-id="fanduel-sports-southeast-south-carolina" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-south-us.png?raw=true" group-title="TVPass",Fanduel Sports Southeast South Carolina HD
+https://auraserver.short.gy/fanduelsportssoutheastsouthcarolinahd
+#EXTINF:-1  tvg-name="Fanduel Sports Southeast Tennessee Nashville SD" tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-southeast-us.png?raw=true" group-title="TVPass",Fanduel Sports Southeast Tennessee Nashville SD
+https://auraserver.short.gy/fanduelsportssoutheasttennesseenashvillesd
+#EXTINF:-1  tvg-name="Fanduel Sports Southeast Tennessee Nashville HD" tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-southeast-us.png?raw=true" group-title="TVPass",Fanduel Sports Southeast Tennessee Nashville HD
+https://auraserver.short.gy/fanduelsportssoutheasttennesseenashvillehd
+#EXTINF:-1  tvg-name="Fanduel Sports Sun SD" tvg-id="bally-sports-sun" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-sun-us.png?raw=true" group-title="TVPass",Fanduel Sports Sun SD
+https://auraserver.short.gy/fanduelsportssunsd
+#EXTINF:-1  tvg-name="Fanduel Sports Sun HD" tvg-id="bally-sports-sun" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-sun-us.png?raw=true" group-title="TVPass",Fanduel Sports Sun HD
+https://auraserver.short.gy/fanduelsportssunhd
+#EXTINF:-1  tvg-name="Fanduel Sports Tennessee East SD" tvg-id="fanduel-sports-tennessee-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-southeast-us.png?raw=true" group-title="TVPass",Fanduel Sports Tennessee East SD
+https://auraserver.short.gy/fanduelsportstennesseeeastsd
+#EXTINF:-1  tvg-name="Fanduel Sports Tennessee East HD" tvg-id="fanduel-sports-tennessee-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-southeast-us.png?raw=true" group-title="TVPass",Fanduel Sports Tennessee East HD
+https://auraserver.short.gy/fanduelsportstennesseeeasthd
+#EXTINF:-1  tvg-name="Food Network USA Eastern Feed SD" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true" group-title="TVPass",Food Network USA Eastern Feed SD
+https://auraserver.short.gy/foodnetworkeastsd
+#EXTINF:-1  tvg-name="Food Network USA Eastern Feed HD" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true" group-title="TVPass",Food Network USA Eastern Feed HD
+https://auraserver.short.gy/foodnetworkeasthd
+#EXTINF:-1  tvg-name="FOX (KTTV) Los Angeles SD" tvg-id="fox-kttv-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",FOX (KTTV) Los Angeles SD
+https://auraserver.short.gy/foxkttvlosangelescasd
+#EXTINF:-1  tvg-name="FOX (KTTV) Los Angeles HD" tvg-id="fox-kttv-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",FOX (KTTV) Los Angeles HD
+https://auraserver.short.gy/foxkttvlosangelescahd
+#EXTINF:-1  tvg-name="FOX (WNYW) New York " tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY SD
+https://auraserver.short.gy/wnetsd
+#EXTINF:-1  tvg-name="FOX (WNYW) New York" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY HD
+https://auraserver.short.gy/wnethd
+#EXTINF:-1  tvg-name="Fox Business SD" tvg-id="fox-business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="TVPass",Fox Business SD
+https://auraserver.short.gy/foxbusinesssd
+#EXTINF:-1  tvg-name="Fox Business HD" tvg-id="fox-business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="TVPass",Fox Business HD
+https://auraserver.short.gy/foxbusinesshd
+#EXTINF:-1  tvg-name="Fox News SD" tvg-id="fox-news" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="TVPass",Fox News SD
+https://auraserver.short.gy/foxnewschannelsd
+#EXTINF:-1  tvg-name="Fox News HD" tvg-id="fox-news" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="TVPass",Fox News HD
+https://auraserver.short.gy/foxnewschannelhd
+#EXTINF:-1  tvg-name="Fox Sports 1 SD" tvg-id="fox-sports-1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="TVPass",Fox Sports 1 SD
+https://auraserver.short.gy/foxsports1sd
+#EXTINF:-1  tvg-name="Fox Sports 1 HD" tvg-id="fox-sports-1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="TVPass",Fox Sports 1 HD
+https://auraserver.short.gy/foxsports1hd
+#EXTINF:-1  tvg-name="Fox Sports 2 SD" tvg-id="fox-sports-2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="TVPass",Fox Sports 2 SD
+https://auraserver.short.gy/foxsports2sd
+#EXTINF:-1  tvg-name="Fox Sports 2 HD" tvg-id="fox-sports-2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="TVPass",Fox Sports 2 HD
+https://auraserver.short.gy/foxsports2hd
+#EXTINF:-1  tvg-name="Freeform East Feed SD" tvg-id="freeform-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/freeform-us.png?raw=true" group-title="TVPass",Freeform East Feed SD
+https://auraserver.short.gy/freeformeastsd
+#EXTINF:-1  tvg-name="Freeform East Feed HD" tvg-id="freeform-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/freeform-us.png?raw=true" group-title="TVPass",Freeform East Feed HD
+https://auraserver.short.gy/freeformeasthd
+#EXTINF:-1  tvg-name="FUSE TV Eastern feed SD" tvg-id="fuse-tv-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true" group-title="TVPass",FUSE TV Eastern feed SD
+https://auraserver.short.gy/fuseeastsd
+#EXTINF:-1  tvg-name="FUSE TV Eastern feed HD" tvg-id="fuse-tv-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true" group-title="TVPass",FUSE TV Eastern feed HD
+https://auraserver.short.gy/fuseeasthd
+#EXTINF:-1  tvg-name="FX Movie Channel SD" tvg-id="fx-movie-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="TVPass",FX Movie Channel SD
+https://auraserver.short.gy/fxmoviechannelsd
+#EXTINF:-1  tvg-name="FX Movie Channel HD" tvg-id="fx-movie-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="TVPass",FX Movie Channel HD
+https://auraserver.short.gy/fxmoviechannelhd
+#EXTINF:-1  tvg-name="FX Networks East Coast SD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX Networks East Coast SD
+https://auraserver.short.gy/fxeastsd
+#EXTINF:-1  tvg-name="FX Networks East Coast HD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX Networks East Coast HD
+https://auraserver.short.gy/fxeasthd
+#EXTINF:-1  tvg-name="FXX USA Eastern SD" tvg-id="fxx-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="TVPass",FXX USA Eastern SD
+https://auraserver.short.gy/fxxeastsd
+#EXTINF:-1  tvg-name="FXX USA Eastern HD" tvg-id="fxx-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="TVPass",FXX USA Eastern HD
+https://auraserver.short.gy/fxxeasthd
+#EXTINF:-1  tvg-name="FYI USA Eastern SD" tvg-id="fyi-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="TVPass",FYI USA Eastern SD
+https://auraserver.short.gy/fyieastsd
+#EXTINF:-1  tvg-name="FYI USA Eastern HD" tvg-id="fyi-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="TVPass",FYI USA Eastern HD
+https://auraserver.short.gy/fyieasthd
+#EXTINF:-1  tvg-name="Game Show Network East SD" tvg-id="game-show-network-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-us.png?raw=true" group-title="TVPass",Game Show Network East SD
+https://auraserver.short.gy/gameshownetworkeastsd
+#EXTINF:-1  tvg-name="Game Show Network East HD" tvg-id="game-show-network-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-us.png?raw=true" group-title="TVPass",Game Show Network East HD
+https://auraserver.short.gy/gameshownetworkeasthd
+#EXTINF:-1  tvg-name="Golf Channel USA SD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TVPass",Golf Channel USA SD
+https://auraserver.short.gy/golfchannelsd
+#EXTINF:-1  tvg-name="Golf Channel USA HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TVPass",Golf Channel USA HD
+https://auraserver.short.gy/golfchannelhd
+#EXTINF:-1  tvg-name="Hallmark Eastern Feed SD" tvg-id="hallmark-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" group-title="TVPass",Hallmark Eastern Feed SD
+https://auraserver.short.gy/hallmarkchanneleastsd
+#EXTINF:-1  tvg-name="Hallmark Eastern Feed HD" tvg-id="hallmark-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" group-title="TVPass",Hallmark Eastern Feed HD
+https://auraserver.short.gy/hallmarkchanneleasthd
+#EXTINF:-1  tvg-name="Hallmark Family HD SD" tvg-id="hallmark-family-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="TVPass",Hallmark Family HD SD
+https://auraserver.short.gy/hallmarkdramasd
+#EXTINF:-1  tvg-name="Hallmark Family HD HD" tvg-id="hallmark-family-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="TVPass",Hallmark Family HD HD
+https://auraserver.short.gy/hallmarkdramahd
+#EXTINF:-1  tvg-name="Hallmark Mystery Eastern HD SD" tvg-id="hallmark-mystery-eastern-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="TVPass",Hallmark Mystery Eastern HD SD
+https://auraserver.short.gy/hallmarkmoviesmysterieseastsd
+#EXTINF:-1  tvg-name="Hallmark Mystery Eastern HD HD" tvg-id="hallmark-mystery-eastern-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="TVPass",Hallmark Mystery Eastern HD HD
+https://auraserver.short.gy/hallmarkmoviesmysterieseasthd
+#EXTINF:-1  tvg-name="HBO Eastern Feed SD" tvg-id="hbo-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="TVPass",HBO Eastern Feed SD
+https://auraserver.short.gy/hboeastsd
+#EXTINF:-1  tvg-name="HBO Eastern Feed HD" tvg-id="hbo-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="TVPass",HBO Eastern Feed HD
+https://auraserver.short.gy/hboeasthd
+#EXTINF:-1  tvg-name="HBO 2 Eastern Feed SD" tvg-id="hbo-2-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true" group-title="TVPass",HBO 2 Eastern Feed SD
+https://auraserver.short.gy/hbo2eastsd
+#EXTINF:-1  tvg-name="HBO 2 Eastern Feed HD" tvg-id="hbo-2-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true" group-title="TVPass",HBO 2 Eastern Feed HD
+https://auraserver.short.gy/hbo2easthd
+#EXTINF:-1  tvg-name="HBO Comedy HD East SD" tvg-id="hbo-comedy-hd-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" group-title="TVPass",HBO Comedy HD East SD
+https://auraserver.short.gy/hbocomedyeastsd
+#EXTINF:-1  tvg-name="HBO Comedy HD East HD" tvg-id="hbo-comedy-hd-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" group-title="TVPass",HBO Comedy HD East HD
+https://auraserver.short.gy/hbocomedyeasthd
+#EXTINF:-1  tvg-name="HBO Family Eastern Feed SD" tvg-id="hbo-family-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true" group-title="TVPass",HBO Family Eastern Feed SD
+https://auraserver.short.gy/hbofamilyeastsd
+#EXTINF:-1  tvg-name="HBO Family Eastern Feed HD" tvg-id="hbo-family-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true" group-title="TVPass",HBO Family Eastern Feed HD
+https://auraserver.short.gy/hbofamilyeasthd
+#EXTINF:-1  tvg-name="HBO Signature (HBO 3) Eastern SD" tvg-id="hbo-signature-hbo-3-eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png" group-title="TVPass",HBO Signature (HBO 3) Eastern SD
+https://auraserver.short.gy/hbosignatureeastsd
+#EXTINF:-1  tvg-name="HBO Signature (HBO 3) Eastern HD" tvg-id="hbo-signature-hbo-3-eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png" group-title="TVPass",HBO Signature (HBO 3) Eastern HD
+https://auraserver.short.gy/hbosignatureeasthd
+#EXTINF:-1  tvg-name="HBO Zone HD East SD" tvg-id="hbo-zone-hd-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-zone-us.png?raw=true" group-title="TVPass",HBO Zone HD East SD
+https://auraserver.short.gy/hbozoneeastsd
+#EXTINF:-1  tvg-name="HBO Zone HD East HD" tvg-id="hbo-zone-hd-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-zone-us.png?raw=true" group-title="TVPass",HBO Zone HD East HD
+https://auraserver.short.gy/hbozoneeasthd
+#EXTINF:-1  tvg-name="HGTV USA Eastern Feed SD" tvg-id="hgtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" group-title="TVPass",HGTV USA Eastern Feed SD
+https://auraserver.short.gy/hgtveastsd
+#EXTINF:-1  tvg-name="HGTV USA Eastern Feed HD" tvg-id="hgtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" group-title="TVPass",HGTV USA Eastern Feed HD
+https://auraserver.short.gy/hgtveasthd
+#EXTINF:-1  tvg-name="History Channel US Eastern Feed SD" tvg-id="history-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="TVPass",History Channel US Eastern Feed SD
+https://auraserver.short.gy/historyeastsd
+#EXTINF:-1  tvg-name="History Channel US Eastern Feed HD" tvg-id="history-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="TVPass",History Channel US Eastern Feed HD
+https://auraserver.short.gy/historyeasthd
+#EXTINF:-1  tvg-name="HLN SD" tvg-id="hln" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hln-us.png?raw=true" group-title="TVPass",HLN SD
+https://auraserver.short.gy/hlnsd
+#EXTINF:-1  tvg-name="HLN HD" tvg-id="hln" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hln-us.png?raw=true" group-title="TVPass",HLN HD
+https://auraserver.short.gy/hlnhd
+#EXTINF:-1  tvg-name="Independent Film Channel US SD" tvg-id="independent-film-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" group-title="TVPass",Independent Film Channel US SD
+https://auraserver.short.gy/ifceastsd
+#EXTINF:-1  tvg-name="Independent Film Channel US HD" tvg-id="independent-film-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" group-title="TVPass",Independent Film Channel US HD
+https://auraserver.short.gy/ifceasthd
+#EXTINF:-1  tvg-name="Investigation Discovery USA Eastern SD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="TVPass",Investigation Discovery USA Eastern SD
+https://auraserver.short.gy/investigationdiscoveryeastsd
+#EXTINF:-1  tvg-name="Investigation Discovery USA Eastern HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="TVPass",Investigation Discovery USA Eastern HD
+https://auraserver.short.gy/investigationdiscoveryeasthd
+#EXTINF:-1  tvg-name="ION Eastern Feed SD" tvg-id="ion-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="TVPass",ION Eastern Feed SD
+https://auraserver.short.gy/iontveastsd
+#EXTINF:-1  tvg-name="ION Eastern Feed HD" tvg-id="ion-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="TVPass",ION Eastern Feed HD
+https://auraserver.short.gy/iontveasthd
+#EXTINF:-1  tvg-name="Lifetime Movies East SD" tvg-id="lifetime-movies-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movies-us.png?raw=true" group-title="TVPass",Lifetime Movies East SD
+https://auraserver.short.gy/lifetimemovieseastsd
+#EXTINF:-1  tvg-name="Lifetime Movies East HD" tvg-id="lifetime-movies-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movies-us.png?raw=true" group-title="TVPass",Lifetime Movies East HD
+https://auraserver.short.gy/lifetimemovieseasthd
+#EXTINF:-1  tvg-name="Lifetime Network US Eastern Feed SD" tvg-id="lifetime-network-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movie-network-us.png?raw=true" group-title="TVPass",Lifetime Network US Eastern Feed SD
+https://auraserver.short.gy/lifetimeeastsd
+#EXTINF:-1  tvg-name="Lifetime Network US Eastern Feed HD" tvg-id="lifetime-network-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movie-network-us.png?raw=true" group-title="TVPass",Lifetime Network US Eastern Feed HD
+https://auraserver.short.gy/lifetimeeasthd
+#EXTINF:-1  tvg-name="LOGO East SD" tvg-id="logo-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" group-title="TVPass",LOGO East SD
+https://auraserver.short.gy/logoeastsd
+#EXTINF:-1  tvg-name="LOGO East HD" tvg-id="logo-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" group-title="TVPass",LOGO East HD
+https://auraserver.short.gy/logoeasthd
+#EXTINF:-1  tvg-name="Marquee Sports Network SD" tvg-id="marquee-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/marquee-sports-network-us.png?raw=true" group-title="TVPass",Marquee Sports Network SD
+https://auraserver.short.gy/marqueesportsnetworksd
+#EXTINF:-1  tvg-name="Marquee Sports Network HD" tvg-id="marquee-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/marquee-sports-network-us.png?raw=true" group-title="TVPass",Marquee Sports Network HD
+https://auraserver.short.gy/marqueesportsnetworkhd
+#EXTINF:-1  tvg-name="MeTV Toons (WJLP2) New Jersey SD" tvg-id="metv-toons-wjlp2-new-jersey" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="TVPass",MeTV Toons (WJLP2) New Jersey SD
+https://auraserver.short.gy/metvtoonssd
+#EXTINF:-1  tvg-name="MeTV Toons (WJLP2) New Jersey HD" tvg-id="metv-toons-wjlp2-new-jersey" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="TVPass",MeTV Toons (WJLP2) New Jersey HD
+https://auraserver.short.gy/metvtoonshd
+#EXTINF:-1  tvg-name="MeTV Wjlp New Jerseynew York SD" tvg-id="metv-wjlp-new-jerseynew-york" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="TVPass",MeTV Wjlp New Jerseynew York SD
+https://auraserver.short.gy/metvwjlpnewjerseynewyorksd
+#EXTINF:-1  tvg-name="MeTV Wjlp New Jerseynew York HD" tvg-id="metv-wjlp-new-jerseynew-york" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="TVPass",MeTV Wjlp New Jerseynew York HD
+https://auraserver.short.gy/metvwjlpnewjerseynewyorkhd
+#EXTINF:-1  tvg-name="Midatlantic Sports Network SD" tvg-id="midatlantic-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/masn-us.png?raw=true" group-title="TVPass",Midatlantic Sports Network SD
+https://auraserver.short.gy/midatlanticsportsnetworksd
+#EXTINF:-1  tvg-name="Midatlantic Sports Network HD" tvg-id="midatlantic-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/masn-us.png?raw=true" group-title="TVPass",Midatlantic Sports Network HD
+https://auraserver.short.gy/midatlanticsportsnetworkhd
+#EXTINF:-1  tvg-name="MLB Network SD" tvg-id="mlb-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="TVPass",MLB Network SD
+https://auraserver.short.gy/mlbnetworksd
+#EXTINF:-1  tvg-name="MLB Network HD" tvg-id="mlb-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="TVPass",MLB Network HD
+https://auraserver.short.gy/mlbnetworkhd
+#EXTINF:-1  tvg-name="Monumental Sports Network SD" tvg-id="monumental-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/monumental-sports-network-us.png?raw=true" group-title="TVPass",Monumental Sports Network SD
+https://auraserver.short.gy/monumentalsportsnetworksd
+#EXTINF:-1  tvg-name="Monumental Sports Network HD" tvg-id="monumental-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/monumental-sports-network-us.png?raw=true" group-title="TVPass",Monumental Sports Network HD
+https://auraserver.short.gy/monumentalsportsnetworkhd
+#EXTINF:-1  tvg-name="MoreMax Eastern SD" tvg-id="moremax-eastern" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MoreMAX.png" group-title="TVPass",MoreMax Eastern SD
+https://auraserver.short.gy/moremaxeastsd
+#EXTINF:-1  tvg-name="MoreMax Eastern HD" tvg-id="moremax-eastern" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MoreMAX.png" group-title="TVPass",MoreMax Eastern HD
+https://auraserver.short.gy/moremaxeasthd
+#EXTINF:-1  tvg-name="Motor Trend HD SD" tvg-id="motor-trend-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/motor-trend-us.png?raw=true" group-title="TVPass",Motor Trend HD SD
+https://auraserver.short.gy/motortrendsd
+#EXTINF:-1  tvg-name="Motor Trend HD HD" tvg-id="motor-trend-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/motor-trend-us.png?raw=true" group-title="TVPass",Motor Trend HD HD
+https://auraserver.short.gy/motortrendhd
+#EXTINF:-1  tvg-name="MovieMax (Max 6) East SD" tvg-id="moviemax-max-6-east" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MovieMAX.png" group-title="TVPass",MovieMax (Max 6) East SD
+https://auraserver.short.gy/moviemaxeastsd
+#EXTINF:-1  tvg-name="MovieMax (Max 6) East HD" tvg-id="moviemax-max-6-east" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MovieMAX.png" group-title="TVPass",MovieMax (Max 6) East HD
+https://auraserver.short.gy/moviemaxeasthd
+#EXTINF:-1  tvg-name="MSG Madison Square Gardens SD" tvg-id="msg-madison-square-gardens" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-us.png?raw=true" group-title="TVPass",MSG Madison Square Gardens SD
+https://auraserver.short.gy/msgmadisonsquaregardenssd
+#EXTINF:-1  tvg-name="MSG Madison Square Gardens HD" tvg-id="msg-madison-square-gardens" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-us.png?raw=true" group-title="TVPass",MSG Madison Square Gardens HD
+https://auraserver.short.gy/msgmadisonsquaregardenshd
+#EXTINF:-1  tvg-name="MSG Plus SD" tvg-id="msg-plus" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-plus-us.png?raw=true" group-title="TVPass",MSG Plus SD
+https://auraserver.short.gy/msgplussd
+#EXTINF:-1  tvg-name="MSG Plus HD" tvg-id="msg-plus" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-plus-us.png?raw=true" group-title="TVPass",MSG Plus HD
+https://auraserver.short.gy/msgplushd
+#EXTINF:-1  tvg-name="MSNBC USA SD" tvg-id="msnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-hz-us.png?raw=true" group-title="TVPass",MSNBC USA SD
+https://auraserver.short.gy/msnbcsd
+#EXTINF:-1  tvg-name="MSNBC USA HD" tvg-id="msnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-hz-us.png?raw=true" group-title="TVPass",MSNBC USA HD
+https://auraserver.short.gy/msnbchd
+#EXTINF:-1  tvg-name="MTV 2 East SD" tvg-id="mtv-2-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="TVPass",MTV 2 East SD
+https://auraserver.short.gy/mtv2eastsd
+#EXTINF:-1  tvg-name="MTV 2 East HD" tvg-id="mtv-2-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="TVPass",MTV 2 East HD
+https://auraserver.short.gy/mtv2easthd
+#EXTINF:-1  tvg-name="MTV USA Eastern Feed SD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TVPass",MTV USA Eastern Feed SD
+https://auraserver.short.gy/mtveastsd
+#EXTINF:-1  tvg-name="MTV USA Eastern Feed HD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TVPass",MTV USA Eastern Feed HD
+https://auraserver.short.gy/mtveasthd
+#EXTINF:-1  tvg-name="National Geographic US Eastern SD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TVPass",National Geographic US Eastern SD
+https://auraserver.short.gy/nationalgeographiceastsd
+#EXTINF:-1  tvg-name="National Geographic US Eastern HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TVPass",National Geographic US Eastern HD
+https://auraserver.short.gy/nationalgeographiceasthd
+#EXTINF:-1  tvg-name="National Geographic Wild SD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TVPass",National Geographic Wild SD
+https://auraserver.short.gy/nationalgeographicwildeastsd
+#EXTINF:-1  tvg-name="National Geographic Wild HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TVPass",National Geographic Wild HD
+https://auraserver.short.gy/nationalgeographicwildeasthd
+#EXTINF:-1  tvg-name="NBA TV USA SD" tvg-id="nba-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="TVPass",NBA TV USA SD
+https://auraserver.short.gy/nbatvsd
+#EXTINF:-1  tvg-name="NBA TV USA HD" tvg-id="nba-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="TVPass",NBA TV USA HD
+https://auraserver.short.gy/nbatvhd
+#EXTINF:-1  tvg-name="NBC (KNBC) Los Angeles SD" tvg-id="nbc-knbc-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NBC (KNBC) Los Angeles SD
+https://auraserver.short.gy/nbcknbclosangelescasd
+#EXTINF:-1  tvg-name="NBC (KNBC) Los Angeles HD" tvg-id="nbc-knbc-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NBC (KNBC) Los Angeles HD
+https://auraserver.short.gy/nbcknbclosangelescahd
+#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY SD
+https://auraserver.short.gy/wnetsd
+#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY HD
+https://auraserver.short.gy/wnethd
+#EXTINF:-1  tvg-name="NBC Sports Bay Area SD" tvg-id="nbc-sports-bay-area" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-bay-area-us.png?raw=true" group-title="TVPass",NBC Sports Bay Area SD
+https://auraserver.short.gy/nbcsportsbayareasd
+#EXTINF:-1  tvg-name="NBC Sports Bay Area HD" tvg-id="nbc-sports-bay-area" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-bay-area-us.png?raw=true" group-title="TVPass",NBC Sports Bay Area HD
+https://auraserver.short.gy/nbcsportsbayareahd
+#EXTINF:-1  tvg-name="NBC Sports Boston SD" tvg-id="nbc-sports-boston" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-boston-us.png?raw=true" group-title="TVPass",NBC Sports Boston SD
+https://auraserver.short.gy/nbcsportsbostonsd
+#EXTINF:-1  tvg-name="NBC Sports Boston HD" tvg-id="nbc-sports-boston" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-boston-us.png?raw=true" group-title="TVPass",NBC Sports Boston HD
+https://auraserver.short.gy/nbcsportsbostonhd
+#EXTINF:-1  tvg-name="NBC Sports California SD" tvg-id="nbc-sports-california" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="TVPass",NBC Sports California SD
+https://auraserver.short.gy/nbcsportscaliforniasd
+#EXTINF:-1  tvg-name="NBC Sports California HD" tvg-id="nbc-sports-california" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="TVPass",NBC Sports California HD
+https://auraserver.short.gy/nbcsportscaliforniahd
+#EXTINF:-1  tvg-name="NBC Sports Philadelphia SD" tvg-id="nbc-sports-philadelphia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="TVPass",NBC Sports Philadelphia SD
+https://auraserver.short.gy/nbcsportsphiladelphiasd
+#EXTINF:-1  tvg-name="NBC Sports Philadelphia HD" tvg-id="nbc-sports-philadelphia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="TVPass",NBC Sports Philadelphia HD
+https://auraserver.short.gy/nbcsportsphiladelphiahd
+#EXTINF:-1  tvg-name="New England Sports Network SD" tvg-id="new-england-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-us.png?raw=true" group-title="TVPass",New England Sports Network SD
+https://auraserver.short.gy/newenglandsportsnetworksd
+#EXTINF:-1  tvg-name="New England Sports Network HD" tvg-id="new-england-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-us.png?raw=true" group-title="TVPass",New England Sports Network HD
+https://auraserver.short.gy/newenglandsportsnetworkhd
+#EXTINF:-1  tvg-name="NewsMax TV SD" tvg-id="newsmax-tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="TVPass",NewsMax TV SD
+https://auraserver.short.gy/newsmaxtvsd
+#EXTINF:-1  tvg-name="NewsMax TV HD" tvg-id="newsmax-tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="TVPass",NewsMax TV HD
+https://auraserver.short.gy/newsmaxtvhd
+#EXTINF:-1  tvg-name="NFL Network SD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TVPass",NFL Network SD
+https://auraserver.short.gy/nflnetworksd
+#EXTINF:-1  tvg-name="NFL Network HD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TVPass",NFL Network HD
+https://auraserver.short.gy/nflnetworkhd
+#EXTINF:-1  tvg-name="NFL RedZone SD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TVPass",NFL RedZone SD
+https://auraserver.short.gy/nflredzonesd
+#EXTINF:-1  tvg-name="NFL RedZone HD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TVPass",NFL RedZone HD
+https://auraserver.short.gy/nflredzonehd
+#EXTINF:-1  tvg-name="NHL Network USA SD" tvg-id="nhl-network-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="TVPass",NHL Network USA SD
+https://auraserver.short.gy/nhlnetworksd
+#EXTINF:-1  tvg-name="NHL Network USA HD" tvg-id="nhl-network-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="TVPass",NHL Network USA HD
+https://auraserver.short.gy/nhlnetworkhd
+#EXTINF:-1  tvg-name="Nick Jr. East SD" tvg-id="nick-jr-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="TVPass",Nick Jr. East SD
+https://auraserver.short.gy/nickjreastsd
+#EXTINF:-1  tvg-name="Nick Jr. East HD" tvg-id="nick-jr-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="TVPass",Nick Jr. East HD
+https://auraserver.short.gy/nickjreasthd
+#EXTINF:-1  tvg-name="Nickelodeon USA East Feed SD" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" group-title="TVPass",Nickelodeon USA East Feed SD
+https://auraserver.short.gy/nickelodeoneastsd
+#EXTINF:-1  tvg-name="Nickelodeon USA East Feed HD" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" group-title="TVPass",Nickelodeon USA East Feed HD
+https://auraserver.short.gy/nickelodeoneasthd
+#EXTINF:-1  tvg-name="Nicktoons East SD" tvg-id="nicktoons-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="TVPass",Nicktoons East SD
+https://auraserver.short.gy/nicktoonseastsd
+#EXTINF:-1  tvg-name="Nicktoons East HD" tvg-id="nicktoons-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="TVPass",Nicktoons East HD
+https://auraserver.short.gy/nicktoonseasthd
+#EXTINF:-1  tvg-name="Oprah Winfrey Network USA Eastern SD" tvg-id="oprah-winfrey-network-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="TVPass",Oprah Winfrey Network USA Eastern SD
+https://auraserver.short.gy/owneastsd
+#EXTINF:-1  tvg-name="Oprah Winfrey Network USA Eastern HD" tvg-id="oprah-winfrey-network-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="TVPass",Oprah Winfrey Network USA Eastern HD
+https://auraserver.short.gy/owneasthd
+#EXTINF:-1  tvg-name="Outdoor Channel US SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TVPass",Outdoor Channel US SD
+https://auraserver.short.gy/outdoorchannelsd
+#EXTINF:-1  tvg-name="Outdoor Channel US HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TVPass",Outdoor Channel US HD
+https://auraserver.short.gy/outdoorchannelhd
+#EXTINF:-1  tvg-name="Oxygen Eastern Feed SD" tvg-id="oxygen-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="TVPass",Oxygen Eastern Feed SD
+https://auraserver.short.gy/oxygeneastsd
+#EXTINF:-1  tvg-name="Oxygen Eastern Feed HD" tvg-id="oxygen-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="TVPass",Oxygen Eastern Feed HD
+https://auraserver.short.gy/oxygeneasthd
+#EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="TVPass",NY SD
+https://auraserver.short.gy/wnetsd
+#EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="TVPass",NY HD
+https://auraserver.short.gy/wnethd
+#EXTINF:-1  tvg-name="ReelzChannel SD" tvg-id="reelzchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" group-title="TVPass",ReelzChannel SD
+https://auraserver.short.gy/reelzsd
+#EXTINF:-1  tvg-name="ReelzChannel HD" tvg-id="reelzchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" group-title="TVPass",ReelzChannel HD
+https://auraserver.short.gy/reelzhd
+#EXTINF:-1  tvg-name="Science SD" tvg-id="science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="TVPass",Science SD
+https://auraserver.short.gy/sciencesd
+#EXTINF:-1  tvg-name="Science HD" tvg-id="science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="TVPass",Science HD
+https://auraserver.short.gy/sciencehd
+#EXTINF:-1  tvg-name="SEC Network SD" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" group-title="TVPass",SEC Network SD
+https://auraserver.short.gy/secnsd
+#EXTINF:-1  tvg-name="SEC Network HD" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" group-title="TVPass",SEC Network HD
+https://auraserver.short.gy/secnhd
+#EXTINF:-1  tvg-name="Showtime Eastern Feed SD" tvg-id="paramount-with-showtime-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="TVPass",Showtime Eastern Feed SD
+https://auraserver.short.gy/showtimeeastsd
+#EXTINF:-1  tvg-name="Showtime Eastern Feed HD" tvg-id="paramount-with-showtime-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="TVPass",Showtime Eastern Feed HD
+https://auraserver.short.gy/showtimeeasthd
+#EXTINF:-1  tvg-name="Showtime 2 Eastern SD" tvg-id="showtime-2-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="TVPass",Showtime 2 Eastern SD
+https://auraserver.short.gy/showtime2eastsd
+#EXTINF:-1  tvg-name="Showtime 2 Eastern HD" tvg-id="showtime-2-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="TVPass",Showtime 2 Eastern HD
+https://auraserver.short.gy/showtime2easthd
+#EXTINF:-1  tvg-name="SNY Sportsnet New York Comcast SD" tvg-id="sny-sportsnet-new-york-comcast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sny-us.png?raw=true" group-title="TVPass",SNY Sportsnet New York Comcast SD
+https://auraserver.short.gy/snysportsnetnewyorkcomcastsd
+#EXTINF:-1  tvg-name="SNY Sportsnet New York Comcast HD" tvg-id="sny-sportsnet-new-york-comcast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sny-us.png?raw=true" group-title="TVPass",SNY Sportsnet New York Comcast HD
+https://auraserver.short.gy/snysportsnetnewyorkcomcasthd
+#EXTINF:-1  tvg-name="Space City Home Network SD" tvg-id="space-city-home-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/space-city-home-network-us.png?raw=true" group-title="TVPass",Space City Home Network SD
+https://auraserver.short.gy/spacecityhomenetworksd
+#EXTINF:-1  tvg-name="Space City Home Network HD" tvg-id="space-city-home-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/space-city-home-network-us.png?raw=true" group-title="TVPass",Space City Home Network HD
+https://auraserver.short.gy/spacecityhomenetworkhd
+#EXTINF:-1  tvg-name="Spectrum SportsNet LA SD" tvg-id="spectrum-sportsnet-la" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/spectrum-sportsnet-la-us.png?raw=true" group-title="TVPass",Spectrum SportsNet LA SD
+https://auraserver.short.gy/spectrumsportsnetlasd
+#EXTINF:-1  tvg-name="Spectrum SportsNet LA HD" tvg-id="spectrum-sportsnet-la" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/spectrum-sportsnet-la-us.png?raw=true" group-title="TVPass",Spectrum SportsNet LA HD
+https://auraserver.short.gy/spectrumsportsnetlahd
+#EXTINF:-1  tvg-name="Spectrum Sportsnet Lakers SD" tvg-id="spectrum-sportsnet" tvg-logo="https://cdn.nba.com/manage/2024/10/lalspectrum-1.png" group-title="TVPass",Spectrum Sportsnet Lakers SD
+https://auraserver.short.gy/spectrumsportsnetsd
+#EXTINF:-1  tvg-name="Spectrum Sportsnet Lakers HD" tvg-id="spectrum-sportsnet" tvg-logo="https://cdn.nba.com/manage/2024/10/lalspectrum-1.png" group-title="TVPass",Spectrum Sportsnet Lakers HD
+https://auraserver.short.gy/spectrumsportsnethd
+#EXTINF:-1  tvg-name="Sportsnet (East) SD" tvg-id="sportsnet-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sne-ca.png?raw=true" group-title="TVPass",Sportsnet (East) SD
+https://auraserver.short.gy/sportsneteastsd
+#EXTINF:-1  tvg-name="Sportsnet (East) HD" tvg-id="sportsnet-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sne-ca.png?raw=true" group-title="TVPass",Sportsnet (East) HD
+https://auraserver.short.gy/sportsneteasthd
+#EXTINF:-1  tvg-name="Sportsnet 360 SD" tvg-id="sportsnet-360" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-ca.png?raw=true" group-title="TVPass",Sportsnet 360 SD
+https://auraserver.short.gy/sportsnet360sd
+#EXTINF:-1  tvg-name="Sportsnet 360 HD" tvg-id="sportsnet-360" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-ca.png?raw=true" group-title="TVPass",Sportsnet 360 HD
+https://auraserver.short.gy/sportsnet360hd
+#EXTINF:-1  tvg-name="Sportsnet One SD" tvg-id="sportsnet-one" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-one-ca.png?raw=true" group-title="TVPass",Sportsnet One SD
+https://auraserver.short.gy/sportsnetonesd
+#EXTINF:-1  tvg-name="Sportsnet One HD" tvg-id="sportsnet-one" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-one-ca.png?raw=true" group-title="TVPass",Sportsnet One HD
+https://auraserver.short.gy/sportsnetonehd
+#EXTINF:-1  tvg-name="Sportsnet Ontario SD" tvg-id="sportsnet-ontario" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-ontario-ca.png?raw=true" group-title="TVPass",Sportsnet Ontario SD
+https://auraserver.short.gy/sportsnetontariosd
+#EXTINF:-1  tvg-name="Sportsnet Ontario HD" tvg-id="sportsnet-ontario" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-ontario-ca.png?raw=true" group-title="TVPass",Sportsnet Ontario HD
+https://auraserver.short.gy/sportsnetontariohd
+#EXTINF:-1  tvg-name="Sportsnet Pacific SD" tvg-id="sportsnet-pacific" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-pacific-ca.png?raw=true" group-title="TVPass",Sportsnet Pacific SD
+https://auraserver.short.gy/sportsnetpacificsd
+#EXTINF:-1  tvg-name="Sportsnet Pacific HD" tvg-id="sportsnet-pacific" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-pacific-ca.png?raw=true" group-title="TVPass",Sportsnet Pacific HD
+https://auraserver.short.gy/sportsnetpacifichd
+#EXTINF:-1  tvg-name="Sportsnet Pittsburgh SD" tvg-id="sportsnet-pittsburgh" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PittsburghSportsnet.png" group-title="TVPass",Sportsnet Pittsburgh SD
+https://auraserver.short.gy/sportsnetpittsburghsd
+#EXTINF:-1  tvg-name="Sportsnet Pittsburgh HD" tvg-id="sportsnet-pittsburgh" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PittsburghSportsnet.png" group-title="TVPass",Sportsnet Pittsburgh HD
+https://auraserver.short.gy/sportsnetpittsburghhd
+#EXTINF:-1  tvg-name="Sportsnet West SD" tvg-id="sportsnet-west" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-snw-ca.png?raw=true" group-title="TVPass",Sportsnet West SD
+https://auraserver.short.gy/sportsnetwestsd
+#EXTINF:-1  tvg-name="Sportsnet West HD" tvg-id="sportsnet-west" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-snw-ca.png?raw=true" group-title="TVPass",Sportsnet West HD
+https://auraserver.short.gy/sportsnetwesthd
+#EXTINF:-1  tvg-name="Starz Eastern SD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="TVPass",Starz Eastern SD
+https://auraserver.short.gy/starzeastsd
+#EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="TVPass",Starz Eastern HD
+https://auraserver.short.gy/starzeasthd
+#EXTINF:-1  tvg-name="SundanceTV USA East SD" tvg-id="sundancetv-usa-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sundance-tv-us.png?raw=true" group-title="TVPass",SundanceTV USA East SD
+https://auraserver.short.gy/sundancetveastsd
+#EXTINF:-1  tvg-name="SundanceTV USA East HD" tvg-id="sundancetv-usa-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sundance-tv-us.png?raw=true" group-title="TVPass",SundanceTV USA East HD
+https://auraserver.short.gy/sundancetveasthd
+#EXTINF:-1  tvg-name="Syfy Eastern Feed SD" tvg-id="syfy-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-hz-us.png?raw=true" group-title="TVPass",Syfy Eastern Feed SD
+https://auraserver.short.gy/syfyeastsd
+#EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-hz-us.png?raw=true" group-title="TVPass",Syfy Eastern Feed HD
+https://auraserver.short.gy/syfyeasthd
+#EXTINF:-1  tvg-name="TBS East SD" tvg-id="tbs-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="TVPass",TBS East SD
+https://auraserver.short.gy/tbseastsd
+#EXTINF:-1  tvg-name="TBS East HD" tvg-id="tbs-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="TVPass",TBS East HD
+https://auraserver.short.gy/tbseasthd
+#EXTINF:-1  tvg-name="TeenNick Eastern SD" tvg-id="teennick-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" group-title="TVPass",TeenNick Eastern SD
+https://auraserver.short.gy/teennickeastsd
+#EXTINF:-1  tvg-name="TeenNick Eastern HD" tvg-id="teennick-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" group-title="TVPass",TeenNick Eastern HD
+https://auraserver.short.gy/teennickeasthd
+#EXTINF:-1  tvg-name="Telemundo Eastern Feed SD" tvg-id="telemundo-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="TVPass",Telemundo Eastern Feed SD
+https://auraserver.short.gy/telemundoeastsd
+#EXTINF:-1  tvg-name="Telemundo Eastern Feed HD" tvg-id="telemundo-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="TVPass",Telemundo Eastern Feed HD
+https://auraserver.short.gy/telemundoeasthd
+#EXTINF:-1  tvg-name="The Cooking Channel SD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="TVPass",The Cooking Channel SD
+https://auraserver.short.gy/cookingchannelsd
+#EXTINF:-1  tvg-name="The Cooking Channel HD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="TVPass",The Cooking Channel HD
+https://auraserver.short.gy/cookingchannelhd
+#EXTINF:-1  tvg-name="The Tennis Channel SD" tvg-id="the-tennis-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true" group-title="TVPass",The Tennis Channel SD
+https://auraserver.short.gy/tennischannelsd
+#EXTINF:-1  tvg-name="The Tennis Channel HD" tvg-id="the-tennis-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true" group-title="TVPass",The Tennis Channel HD
+https://auraserver.short.gy/tennischannelhd
+#EXTINF:-1  tvg-name="The Weather Channel SD" tvg-id="the-weather-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/weather-channel-us.png?raw=true" group-title="TVPass",The Weather Channel SD
+https://auraserver.short.gy/theweatherchannelsd
+#EXTINF:-1  tvg-name="The Weather Channel HD" tvg-id="the-weather-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/weather-channel-us.png?raw=true" group-title="TVPass",The Weather Channel HD
+https://auraserver.short.gy/theweatherchannelhd
+#EXTINF:-1  tvg-name="TLC USA Eastern SD" tvg-id="tlc-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tlc-us.png?raw=true" group-title="TVPass",TLC USA Eastern SD
+https://auraserver.short.gy/tlceastsd
+#EXTINF:-1  tvg-name="TLC USA Eastern HD" tvg-id="tlc-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tlc-us.png?raw=true" group-title="TVPass",TLC USA Eastern HD
+https://auraserver.short.gy/tlceasthd
+#EXTINF:-1  tvg-name="TMC (US) Eastern Feed SD" tvg-id="tmc-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-us.png?raw=true" group-title="TVPass",TMC (US) Eastern Feed SD
+https://auraserver.short.gy/themoviechanneleastsd
+#EXTINF:-1  tvg-name="TMC (US) Eastern Feed HD" tvg-id="tmc-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-us.png?raw=true" group-title="TVPass",TMC (US) Eastern Feed HD
+https://auraserver.short.gy/themoviechanneleasthd
+#EXTINF:-1  tvg-name="TNT Eastern Feed SD" tvg-id="tnt-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" group-title="TVPass",TNT Eastern Feed SD
+https://auraserver.short.gy/tnteastsd
+#EXTINF:-1  tvg-name="TNT Eastern Feed HD" tvg-id="tnt-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" group-title="TVPass",TNT Eastern Feed HD
+https://auraserver.short.gy/tnteasthd
+#EXTINF:-1  tvg-name="Travel US East SD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="TVPass",Travel US East SD
+https://auraserver.short.gy/travelchanneleastsd
+#EXTINF:-1  tvg-name="Travel US East HD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="TVPass",Travel US East HD
+https://auraserver.short.gy/travelchanneleasthd
+#EXTINF:-1  tvg-name="truTV USA Eastern SD" tvg-id="trutv-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="TVPass",truTV USA Eastern SD
+https://auraserver.short.gy/trutveastsd
+#EXTINF:-1  tvg-name="truTV USA Eastern HD" tvg-id="trutv-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="TVPass",truTV USA Eastern HD
+https://auraserver.short.gy/trutveasthd
+#EXTINF:-1  tvg-name="TSN1 SD" tvg-id="tsn1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="TVPass",TSN1 SD
+https://auraserver.short.gy/tsn1sd
+#EXTINF:-1  tvg-name="TSN1 HD" tvg-id="tsn1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="TVPass",TSN1 HD
+https://auraserver.short.gy/tsn1hd
+#EXTINF:-1  tvg-name="TSN2 SD" tvg-id="tsn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="TVPass",TSN2 SD
+https://auraserver.short.gy/tsn2sd
+#EXTINF:-1  tvg-name="TSN2 HD" tvg-id="tsn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="TVPass",TSN2 HD
+https://auraserver.short.gy/tsn2hd
+#EXTINF:-1  tvg-name="TSN3 SD" tvg-id="tsn3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="TVPass",TSN3 SD
+https://auraserver.short.gy/tsn3sd
+#EXTINF:-1  tvg-name="TSN3 HD" tvg-id="tsn3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="TVPass",TSN3 HD
+https://auraserver.short.gy/tsn3hd
+#EXTINF:-1  tvg-name="TSN4 SD" tvg-id="tsn4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="TVPass",TSN4 SD
+https://auraserver.short.gy/tsn4sd
+#EXTINF:-1  tvg-name="TSN4 HD" tvg-id="tsn4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="TVPass",TSN4 HD
+https://auraserver.short.gy/tsn4hd
+#EXTINF:-1  tvg-name="TSN5 SD" tvg-id="tsn5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 SD
+https://auraserver.short.gy/tsn5sd
+#EXTINF:-1  tvg-name="TSN5 HD" tvg-id="tsn5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 HD
+https://auraserver.short.gy/tsn5hd
+#EXTINF:-1  tvg-name="Turner Classic Movies USA SD" tvg-id="turner-classic-movies-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tcm-us.png?raw=true" group-title="TVPass",Turner Classic Movies USA SD
+https://auraserver.short.gy/tcmeastsd
+#EXTINF:-1  tvg-name="Turner Classic Movies USA HD" tvg-id="turner-classic-movies-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tcm-us.png?raw=true" group-title="TVPass",Turner Classic Movies USA HD
+https://auraserver.short.gy/tcmeasthd
+#EXTINF:-1  tvg-name="TV Land Eastern SD" tvg-id="tv-land-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="TVPass",TV Land Eastern SD
+https://auraserver.short.gy/tvlandeasternsd
+#EXTINF:-1  tvg-name="TV Land Eastern HD" tvg-id="tv-land-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="TVPass",TV Land Eastern HD
+https://auraserver.short.gy/tvlandeasternhd
+#EXTINF:-1  tvg-name="TV One SD" tvg-id="tv-one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TV_One_US_2012.png" group-title="TVPass",TV One SD
+https://auraserver.short.gy/tvonesd
+#EXTINF:-1  tvg-name="TV One HD" tvg-id="tv-one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TV_One_US_2012.png" group-title="TVPass",TV One HD
+https://auraserver.short.gy/tvonehd
+#EXTINF:-1  tvg-name="Universal Kids SD" tvg-id="universal-kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/universal-kids-us.png?raw=true" group-title="TVPass",Universal Kids SD
+https://auraserver.short.gy/universalkidseastsd
+#EXTINF:-1  tvg-name="Universal Kids HD" tvg-id="universal-kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/universal-kids-us.png?raw=true" group-title="TVPass",Universal Kids HD
+https://auraserver.short.gy/universalkidseasthd
+#EXTINF:-1  tvg-name="Univision Eastern Feed SD" tvg-id="univision-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/univision-us.png?raw=true" group-title="TVPass",Univision Eastern Feed SD
+https://auraserver.short.gy/univisioneastsd
+#EXTINF:-1  tvg-name="Univision Eastern Feed HD" tvg-id="univision-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/univision-us.png?raw=true" group-title="TVPass",Univision Eastern Feed HD
+https://auraserver.short.gy/univisioneasthd
+#EXTINF:-1  tvg-name="USA Network East Feed SD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA Network East Feed SD
+https://auraserver.short.gy/usanetworkeastsd
+#EXTINF:-1  tvg-name="USA Network East Feed HD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA Network East Feed HD
+https://auraserver.short.gy/usanetworkeasthd
+#EXTINF:-1  tvg-name="VH1 Eastern Feed SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TVPass",VH1 Eastern Feed SD
+https://auraserver.short.gy/vh1eastsd
+#EXTINF:-1  tvg-name="VH1 Eastern Feed HD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TVPass",VH1 Eastern Feed HD
+https://auraserver.short.gy/vh1easthd
+#EXTINF:-1  tvg-name="VICE SD" tvg-id="vice" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="TVPass",VICE SD
+https://auraserver.short.gy/vicetvsd
+#EXTINF:-1  tvg-name="VICE HD" tvg-id="vice" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="TVPass",VICE HD
+https://auraserver.short.gy/vicetvhd
+#EXTINF:-1  tvg-name="WE (Women's Entertainment) Eastern SD" tvg-id="we-womens-entertainment-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="TVPass",WE (Women's Entertainment) Eastern SD
+https://auraserver.short.gy/wetveastsd
+#EXTINF:-1  tvg-name="WE (Women's Entertainment) Eastern HD" tvg-id="we-womens-entertainment-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="TVPass",WE (Women's Entertainment) Eastern HD
+https://auraserver.short.gy/wetveasthd
+#EXTINF:-1  tvg-name="WPIX New York (SUPERSTATION) SD" tvg-id="wpix-new-york-superstation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cw-ca.png?raw=true" group-title="TVPass",WPIX New York (SUPERSTATION) SD
+https://auraserver.short.gy/wpixsd
+#EXTINF:-1  tvg-name="WPIX New York (SUPERSTATION) HD" tvg-id="wpix-new-york-superstation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cw-ca.png?raw=true" group-title="TVPass",WPIX New York (SUPERSTATION) HD
+https://auraserver.short.gy/wpixhd
+#EXTINF:-1  tvg-name="Yes Network SD" tvg-id="yes-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="TVPass",Yes Network SD
+https://auraserver.short.gy/yesnetworksd
+#EXTINF:-1  tvg-name="Yes Network HD" tvg-id="yes-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="TVPass",Yes Network HD
+https://auraserver.short.gy/yesnetworkhd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Washington Nationals (09/16 1:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Atlanta Braves @ Washington Nationals (09/16 1:06 Pm Et) Sd
+https://auraserver.short.gy/mlb02sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Washington Nationals (09/16 1:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Atlanta Braves @ Washington Nationals (09/16 1:06 Pm Et) Hd
+https://auraserver.short.gy/mlb02hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Pittsburgh Pirates (09/16 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Chicago Cubs @ Pittsburgh Pirates (09/16 6:41 Pm Et) Sd
+https://auraserver.short.gy/mlb16sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Pittsburgh Pirates (09/16 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Chicago Cubs @ Pittsburgh Pirates (09/16 6:41 Pm Et) Hd
+https://auraserver.short.gy/mlb16hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Detroit Tigers (09/16 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Cleveland Guardians @ Detroit Tigers (09/16 6:41 Pm Et) Sd
+https://auraserver.short.gy/mlb23sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Detroit Tigers (09/16 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Cleveland Guardians @ Detroit Tigers (09/16 6:41 Pm Et) Hd
+https://auraserver.short.gy/mlb23hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Washington Nationals (09/16 6:45 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Atlanta Braves @ Washington Nationals (09/16 6:45 Pm Et) Sd
+https://auraserver.short.gy/mlb02sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Washington Nationals (09/16 6:45 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Atlanta Braves @ Washington Nationals (09/16 6:45 Pm Et) Hd
+https://auraserver.short.gy/mlb02hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Boston Red Sox (09/16 6:46 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Oakland Athletics @ Boston Red Sox (09/16 6:46 Pm Et) Sd
+https://auraserver.short.gy/mlb05sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Boston Red Sox (09/16 6:46 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Oakland Athletics @ Boston Red Sox (09/16 6:46 Pm Et) Hd
+https://auraserver.short.gy/mlb05hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ New York Mets (09/16 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",San Diego Padres @ New York Mets (09/16 7:11 Pm Et) Sd
+https://auraserver.short.gy/mlb08sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ New York Mets (09/16 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",San Diego Padres @ New York Mets (09/16 7:11 Pm Et) Hd
+https://auraserver.short.gy/mlb08hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Atlanta Dream @ Indiana Fever (09/16 7:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="TVPass - WNBA",Atlanta Dream @ Indiana Fever (09/16 7:30 Pm Et) Sd
+https://auraserver.short.gy/espnsd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Atlanta Dream @ Indiana Fever (09/16 7:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="TVPass - WNBA",Atlanta Dream @ Indiana Fever (09/16 7:30 Pm Et) Hd
+https://auraserver.short.gy/espnhd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Tampa Bay Rays (09/16 7:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Toronto Blue Jays @ Tampa Bay Rays (09/16 7:36 Pm Et) Sd
+https://auraserver.short.gy/mlb17sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Tampa Bay Rays (09/16 7:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Toronto Blue Jays @ Tampa Bay Rays (09/16 7:36 Pm Et) Hd
+https://auraserver.short.gy/mlb17hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Milwaukee Brewers (09/16 7:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Los Angeles Angels @ Milwaukee Brewers (09/16 7:41 Pm Et) Sd
+https://auraserver.short.gy/mlb11sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Milwaukee Brewers (09/16 7:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Los Angeles Angels @ Milwaukee Brewers (09/16 7:41 Pm Et) Hd
+https://auraserver.short.gy/mlb11hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Minnesota Twins (09/16 7:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",New York Yankees @ Minnesota Twins (09/16 7:41 Pm Et) Sd
+https://auraserver.short.gy/mlb10sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Minnesota Twins (09/16 7:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",New York Yankees @ Minnesota Twins (09/16 7:41 Pm Et) Hd
+https://auraserver.short.gy/mlb10hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Kansas City Royals (09/16 7:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Seattle Mariners @ Kansas City Royals (09/16 7:41 Pm Et) Sd
+https://auraserver.short.gy/mlb24sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Kansas City Royals (09/16 7:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Seattle Mariners @ Kansas City Royals (09/16 7:41 Pm Et) Hd
+https://auraserver.short.gy/mlb24hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Chicago White Sox (09/16 7:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Baltimore Orioles @ Chicago White Sox (09/16 7:41 Pm Et) Sd
+https://auraserver.short.gy/mlb18sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Chicago White Sox (09/16 7:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Baltimore Orioles @ Chicago White Sox (09/16 7:41 Pm Et) Hd
+https://auraserver.short.gy/mlb18hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ St. Louis Cardinals (09/16 7:46 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Cincinnati Reds @ St. Louis Cardinals (09/16 7:46 Pm Et) Sd
+https://auraserver.short.gy/mlb19sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ St. Louis Cardinals (09/16 7:46 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Cincinnati Reds @ St. Louis Cardinals (09/16 7:46 Pm Et) Hd
+https://auraserver.short.gy/mlb19hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers @ Houston Astros (09/16 8:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Texas Rangers @ Houston Astros (09/16 8:10 Pm Et) Sd
+https://auraserver.short.gy/mlb20sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers @ Houston Astros (09/16 8:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Texas Rangers @ Houston Astros (09/16 8:10 Pm Et) Hd
+https://auraserver.short.gy/mlb20hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Colorado Rockies (09/16 8:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Miami Marlins @ Colorado Rockies (09/16 8:41 Pm Et) Sd
+https://auraserver.short.gy/mlb25sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Colorado Rockies (09/16 8:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Miami Marlins @ Colorado Rockies (09/16 8:41 Pm Et) Hd
+https://auraserver.short.gy/mlb25hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Las Vegas Aces @ Seattle Storm (09/16 9:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="TVPass - WNBA",Las Vegas Aces @ Seattle Storm (09/16 9:30 Pm Et) Sd
+https://auraserver.short.gy/espnsd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Las Vegas Aces @ Seattle Storm (09/16 9:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="TVPass - WNBA",Las Vegas Aces @ Seattle Storm (09/16 9:30 Pm Et) Hd
+https://auraserver.short.gy/espnhd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Arizona Diamondbacks (09/16 9:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",San Francisco Giants @ Arizona Diamondbacks (09/16 9:41 Pm Et) Sd
+https://auraserver.short.gy/mlb21sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Arizona Diamondbacks (09/16 9:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",San Francisco Giants @ Arizona Diamondbacks (09/16 9:41 Pm Et) Hd
+https://auraserver.short.gy/mlb21hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Los Angeles Dodgers (09/16 10:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Philadelphia Phillies @ Los Angeles Dodgers (09/16 10:11 Pm Et) Sd
+https://auraserver.short.gy/mlb22sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Los Angeles Dodgers (09/16 10:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Philadelphia Phillies @ Los Angeles Dodgers (09/16 10:11 Pm Et) Hd
+https://auraserver.short.gy/mlb22hd
