@@ -1308,7 +1308,8 @@ https://auraserver2.short.gy/@premiersport.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-https://auraserver2.short.gy/@hktvbjade#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title=HONGKONG" TVB JADE 4K
+https://auraserver2.short.gy/@hktvbjade
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title=HONGKONG" TVB JADE 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
@@ -1347,7 +1348,8 @@ https://auraserver2.short.gy/@hkphoenixhongkong
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
-https://auraserver2.short.gy/@hktvbentnews#EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER FREE
+https://auraserver2.short.gy/@hktvbentnews
+#EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
@@ -1560,7 +1562,8 @@ https://auraserver2.short.gy/@hkmytvsuperlivefootball7#EXTINF:-1 tvg-id="互動�
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=706bcb6b97016404f8ac32a75c11dd8e&ext_start_limit=1759421495&int_start_limit=1759421495&ts=1759421495&c=121779152#EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",INTERACTIVE 1
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=706bcb6b97016404f8ac32a75c11dd8e&ext_start_limit=1759421495&int_start_limit=1759421495&ts=1759421495&c=121779152
+#EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",INTERACTIVE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
@@ -1568,7 +1571,8 @@ https://auraserver2.short.gy/@hk#EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=9c74c0c54409f4e811ac4fdf4b3d971c&ext_start_limit=1759421495&int_start_limit=1759421495&ts=1759421495&c=121779152#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/superkids.png" group-title="HONGKONG",SUPER KIDS CHANNEL
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=9c74c0c54409f4e811ac4fdf4b3d971c&ext_start_limit=1759421495&int_start_limit=1759421495&ts=1759421495&c=121779152
+#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/superkids.png" group-title="HONGKONG",SUPER KIDS CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
@@ -1623,7 +1627,8 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SMUS_hevc/__op/cenc
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=4ab23f19f3b5c4fc7c88ecbd3e1da1d7&ext_start_limit=1759421505&int_start_limit=1759421505&ts=1759421505&c=121779152#EXTINF:-1 tvg-id="真情SUPER煲" tvg-name="真情SUPER煲" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",真情SUPER煲-SUPER DOCUMENTARY
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=4ab23f19f3b5c4fc7c88ecbd3e1da1d7&ext_start_limit=1759421505&int_start_limit=1759421505&ts=1759421505&c=121779152
+#EXTINF:-1 tvg-id="真情SUPER煲" tvg-name="真情SUPER煲" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",真情SUPER煲-SUPER DOCUMENTARY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
