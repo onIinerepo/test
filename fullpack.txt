@@ -1304,7 +1304,7 @@ https://auraserver2.short.gy/@premiersport.mpd
 ===========AUTOMATION FROM HERE===============
 
 
-##EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbjade.png" group-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/hkicon.png" group-title="HONGKONG",翡翠台-TVB JADE
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbjade.png" group-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/hkicon.png" group-title="HONGKONG",翡翠台-TVB JADE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
