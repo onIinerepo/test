@@ -1307,12 +1307,15 @@ https://auraserver2.short.gy/@premiersport.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-https://auraserver2.short.gy/@hktvbjade#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title=HONGKONG" TVB JADE 4K
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=40a36b41df006c5d6389f8c9f9ffe08a&ext_start_limit=1759939860&int_start_limit=1759939860&ts=1759939860&c=121779152
+
+
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title=HONGKONG" TVB JADE 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=40a36b41df006c5d6389f8c9f9ffe08a&ext_start_limit=1759939860&int_start_limit=1759939860&ts=1759939860&c=121779152
-
 
 
 
@@ -1328,13 +1331,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/
 
 
 
-
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/tvbnews.png" group-title="HONGKONG",無綫新聞台-TVB NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=25f3f2c80755b0425a61dde1d1af4ff4&ext_start_limit=1759939861&int_start_limit=1759939861&ts=1759939861&c=121779152
-
 
 
 
@@ -1350,13 +1351,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/
 
 
 
-
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/phoenixchinesechannel.png" group-title="HONGKONG",鳳凰衛視中文台-PHOENIX CHINESE CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=da75b7733b1d773aaba9cf1b6b394bf4&ext_start_limit=1759939862&int_start_limit=1759939862&ts=1759939862&c=121779152
-
 
 
 
@@ -1372,7 +1371,6 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_
 
 
 
-
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/phoenixhongkong.png" group-title="HONGKONG",鳳凰衛視香港台-PHOENIX HONG KONG
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1383,17 +1381,20 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_
 
 
 
-
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/tvbentertainmentnews.png" group-title="HONGKONG",娛樂新聞台-TVB ENTERTAINMENT NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
-https://auraserver2.short.gy/@hktvbentnews#EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER FREE
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=99bf291c28d675366d76c1c660efad29&ext_start_limit=1759939863&int_start_limit=1759939863&ts=1759939863&c=121779152
+
+
+
+
+#EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=99bf291c28d675366d76c1c660efad29&ext_start_limit=1759939863&int_start_limit=1759939863&ts=1759939863&c=121779152
-
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=e44c4b2dda8a20f77c947cb823a097d0&ext_start_limit=1759939863&int_start_limit=1759939863&ts=1759939863&c=121779152
 
 
 
@@ -1409,13 +1410,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_
 
 
 
-
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbclassic.png" group-title="HONGKONG",千禧經典台-TVB CLASSIC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVC_hevc/__op/cenc_m/__f/index.mpd?sig=c15366b154967db1602bbdcf9a62f96d&ext_start_limit=1759939864&int_start_limit=1759939864&ts=1759939864&c=121779152
-
 
 
 
@@ -1431,13 +1430,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CDR3_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/tvbcantonesemovie.png" group-title="HONGKONG",粵語片台-TVB CANTONESE MOVIE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCLM_hevc/__op/cenc_m/__f/index.mpd?sig=acf633996a1d7f4989b2cf75364b5baa&ext_start_limit=1759939865&int_start_limit=1759939865&ts=1759939865&c=121779152
-
 
 
 
@@ -1453,13 +1450,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVS_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/goldenchinesedrama.png" group-title="HONGKONG",黃金華劇台-GOLDEN CHINESE DRAMA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_TVO_hevc/__op/cenc_m/__f/index.mpd?sig=dcf5d3b881a5c400684946524f764c77&ext_start_limit=1759939866&int_start_limit=1759939866&ts=1759939866&c=121779152
-
 
 
 
@@ -1475,13 +1470,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCOC_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/meiahmoviechannel.png" group-title="HONGKONG",美亞電影台-MEIYA MOVIE CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=850f9166e1d06926565759d0d6d177f2&ext_start_limit=1759939867&int_start_limit=1759939867&ts=1759939867&c=121779152
-
 
 
 
@@ -1497,13 +1490,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTHR_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/ccm.png" group-title="HONGKONG",天映經典頻道-CELESTIAL CLASSIC MOVIE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCCM_hevc/__op/cenc_m/__f/index.mpd?sig=5b57e6a46e06dcb135d3b03ed6896988&ext_start_limit=1759939868&int_start_limit=1759939868&ts=1759939868&c=121779152
-
 
 
 
@@ -1519,13 +1510,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMC_hevc/__op/cenc_
 
 
 
-
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockaction.png" group-title="HONGKONG",ROCK ACTION
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CRTX_hevc/__op/cenc_m/__f/index.mpd?sig=79bbaa78546a2bf411eed7901b37ac98&ext_start_limit=1759939868&int_start_limit=1759939868&ts=1759939868&c=121779152
-
 
 
 
@@ -1541,13 +1530,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_RKEX_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="ROCK綜藝娛樂" tvg-name="ROCK綜藝娛樂" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockentertainment.png" group-title="HONGKONG",ROCK綜藝娛樂-ROCK ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CRTE_hevc/__op/cenc_m/__f/index.mpd?sig=844a66fdc8c278ca5c3256c1ab319d46&ext_start_limit=1759939869&int_start_limit=1759939869&ts=1759939869&c=121779152
-
 
 
 
@@ -1563,13 +1550,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CKIX_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lovenature.png" group-title="HONGKONG",LOVE NATURE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=7d762a608c9ceaa7f8a415bde339401f&ext_start_limit=1759939870&int_start_limit=1759939870&ts=1759939870&c=121779152
-
 
 
 
@@ -1585,13 +1570,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LNH_hevc/__op/cenc_
 
 
 
-
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/globaltrekker.png" group-title="HONGKONG",GLOBAL TREKKER
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=10e86ba47307c249b0c49dc6fceebea6&ext_start_limit=1759939871&int_start_limit=1759939871&ts=1759939871&c=121779152
-
 
 
 
@@ -1607,13 +1590,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CAXN_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animax.png" group-title="HONGKONG",ANIMAX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd?sig=5a01832ae6e7f0c7ad49b209aa766182&ext_start_limit=1759939872&int_start_limit=1759939872&ts=1759939872&c=121779152
-
 
 
 
@@ -1629,13 +1610,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CJTV_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbsasia.png" group-title="HONGKONG",無線衛星亞洲台-TVBS ASIA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CTS1_hevc/__op/cenc_m/__f/index.mpd?sig=586145f1e679d2164ba56895c32da97a&ext_start_limit=1759939872&int_start_limit=1759939872&ts=1759939872&c=121779152
-
 
 
 
@@ -1651,13 +1630,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_
 
 
 
-
 #EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/fashionbox.png" group-title="HONGKONG",FASHION BOX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=386b576b663e6671ac6baebe366c2f60&ext_start_limit=1759939873&int_start_limit=1759939873&ts=1759939873&c=121779152
-
 
 
 
@@ -1673,13 +1650,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CMEZ_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/popc.png" group-title="HONGKONG",POPC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_POPC_hevc/__op/cenc_m/__f/index.mpd?sig=a5af0c679b94c4aa6634561ac9228dc8&ext_start_limit=1759939874&int_start_limit=1759939874&ts=1759939874&c=121779152
-
 
 
 
@@ -1695,13 +1670,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CTSN_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/cna.png" group-title="HONGKONG",亞洲新聞台-CNA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CCNA_hevc/__op/cenc_m/__f/index.mpd?sig=4cdcb8dd9ad8787ce1d04c97d3386782&ext_start_limit=1759939875&int_start_limit=1759939875&ts=1759939875&c=121779152
-
 
 
 
@@ -1717,13 +1690,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CJAZ_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/france24.png" group-title="HONGKONG",FRANCE 24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CF24_hevc/__op/cenc_m/__f/index.mpd?sig=215d5b6a2fac55ae89be6c67e0aea75d&ext_start_limit=1759939876&int_start_limit=1759939876&ts=1759939876&c=121779152
-
 
 
 
@@ -1739,13 +1710,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CDW1_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nhkworldjapan.png" group-title="HONGKONG",NHK WORLD-JAPAN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CNHK_hevc/__op/cenc_m/__f/index.mpd?sig=e3df913a8ecb3aeda46af814d833ebff&ext_start_limit=1759939877&int_start_limit=1759939877&ts=1759939877&c=121779152
-
 
 
 
@@ -1761,13 +1730,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CARI_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SSPT_hevc/__op/cenc_m/__f/index.mpd?sig=d145a4873218601b8c8355537508a7fe&ext_start_limit=1759939878&int_start_limit=1759939878&ts=1759939878&c=121779152
-
 
 
 
@@ -1783,13 +1750,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C18_hevc/__op/cenc_
 
 
 
-
 #EXTINF:-1 tvg-id="myTV SUPER直播足球2台" tvg-name="myTV SUPER直播足球2台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",myTV SUPER直播足球2台-MYTV SUPER LIVE FOOTBALL 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT2_hevc/__op/cenc_m/__f/index.mpd?sig=0d35771c2944392c74428ac86d464726&ext_start_limit=1759939879&int_start_limit=1759939879&ts=1759939879&c=121779152
-
 
 
 
@@ -1805,13 +1770,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT3_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="myTV SUPER直播足球4台" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",myTV SUPER直播足球4台-MYTV SUPER LIVE FOOTBALL 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=8e8072a9526a35575acfa19410f47042&ext_start_limit=1759939880&int_start_limit=1759939880&ts=1759939880&c=121779152
-
 
 
 
@@ -1827,7 +1790,6 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT5_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="myTV SUPER直播足球6台" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",myTV SUPER直播足球6台-MYTV SUPER LIVE FOOTBALL 6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1838,29 +1800,43 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT6_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="myTV SUPER直播足球7台" tvg-name="myTV SUPER直播足球7台" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",myTV SUPER直播足球7台-MYTV SUPER LIVE FOOTBALL 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a81a757b16a3d431d4365d81f07f07:292f2fdc2002e8346cd2c18af4a3a4bc
-https://auraserver2.short.gy/@hkmytvsuperlivefootball7#EXTINF:-1 tvg-id="互動窗 1" tvg-name="互動窗 1" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="HONGKONG", Interactive Window 1
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT7_hevc/__op/cenc_m/__f/index.mpd?sig=f017ea974d1586c064e64af5d5826c46&ext_start_limit=1759939881&int_start_limit=1759939881&ts=1759939881&c=121779152
+
+
+
+#EXTINF:-1 tvg-id="互動窗 1" tvg-name="互動窗 1" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="HONGKONG", Interactive Window 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=706bcb6b97016404f8ac32a75c11dd8e&ext_start_limit=1759421495&int_start_limit=1759421495&ts=1759421495&c=121779152#EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",INTERACTIVE 1
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=1f5ffec9099260cbf74ea075a773ec5b&ext_start_limit=1759939881&int_start_limit=1759939881&ts=1759939881&c=121779152
+
+
+
+#EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",INTERACTIVE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
-https://auraserver2.short.gy/@hk#EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG", INTERACTIVE 2
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=e98964344176282ec8c8869ce7e5d136&ext_start_limit=1759939882&int_start_limit=1759939882&ts=1759939882&c=121779152
+
+
+
+#EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG", INTERACTIVE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=9c74c0c54409f4e811ac4fdf4b3d971c&ext_start_limit=1759421495&int_start_limit=1759421495&ts=1759421495&c=121779152#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/superkids.png" group-title="HONGKONG",SUPER KIDS CHANNEL
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=e98964344176282ec8c8869ce7e5d136&ext_start_limit=1759939882&int_start_limit=1759939882&ts=1759939882&c=121779152
+
+
+
+#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/superkids.png" group-title="HONGKONG",SUPER KIDS CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT7_hevc/__op/cenc_m/__f/index.mpd?sig=f017ea974d1586c064e64af5d5826c46&ext_start_limit=1759939881&int_start_limit=1759939881&ts=1759939881&c=121779152
-
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=73d20eb7b3ee3b591ac7b612ccd9093a&ext_start_limit=1759939883&int_start_limit=1759939883&ts=1759939883&c=121779152
 
 
 
@@ -1876,13 +1852,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_ZOO_hevc/__op/cenc_
 
 
 
-
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickelodeon.png" group-title="HONGKONG",NICKELODEON
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CNIKO_hevc/__op/cenc_m/__f/index.mpd?sig=be4e027277c41eb0b19342d3e72d64be&ext_start_limit=1759939883&int_start_limit=1759939883&ts=1759939883&c=121779152
-
 
 
 
@@ -1898,13 +1872,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CNIJR_hevc/__op/cen
 
 
 
-
 #EXTINF:-1 tvg-id="SUPER獎門人" tvg-name="SUPER獎門人" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER獎門人-SUPER SHOW
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SVAR_hevc/__op/cenc_m/__f/index.mpd?sig=162648f65b4ca3a3e4ec1ac13f29d5f5&ext_start_limit=1759939884&int_start_limit=1759939884&ts=1759939884&c=121779152
-
 
 
 
@@ -1920,13 +1892,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SEYT_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="SUPER識食" tvg-name="SUPER識食" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER識食-SUPER FOOD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SFOO_hevc/__op/cenc_m/__f/index.mpd?sig=93f1cfecad8ced69d5029bcca94b44d8&ext_start_limit=1759939885&int_start_limit=1759939885&ts=1759939885&c=121779152
-
 
 
 
@@ -1942,7 +1912,6 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_STRA_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER MUSIC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1953,23 +1922,34 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SMUS_hevc/__op/cenc
 
 
 
-
 #EXTINF:-1 tvg-id="SUPER金曲" tvg-name="SUPER金曲" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER金曲-SUPER GOLDEN HITS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c#EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER煲劇" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER煲劇-SUPER DRAMA
+#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
+
+
+
+#EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER煲劇" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER煲劇-SUPER DRAMA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0#EXTINF:-1 tvg-id="SUPER單元劇" tvg-name="SUPER單元劇" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER單元劇-SUPER ANTHOLOGY
+#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
+
+
+
+#EXTINF:-1 tvg-id="SUPER單元劇" tvg-name="SUPER單元劇" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",SUPER單元劇-SUPER ANTHOLOGY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=4ab23f19f3b5c4fc7c88ecbd3e1da1d7&ext_start_limit=1759421505&int_start_limit=1759421505&ts=1759421505&c=121779152#EXTINF:-1 tvg-id="真情SUPER煲" tvg-name="真情SUPER煲" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",真情SUPER煲-SUPER DOCUMENTARY
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=e32d4df20ad64c383d654f011cefbe4f&ext_start_limit=1759939887&int_start_limit=1759939887&ts=1759939887&c=121779152
+
+
+
+
+#EXTINF:-1 tvg-id="真情SUPER煲" tvg-name="真情SUPER煲" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mytvsuper.png" group-title="HONGKONG",真情SUPER煲-SUPER DOCUMENTARY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SGOL_hevc/__op/cenc_m/__f/index.mpd?sig=afd450f4e11283888b49bce48f30866e&ext_start_limit=1759939886&int_start_limit=1759939886&ts=1759939886&c=121779152
-
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SDOC_hevc/__op/cenc_m/__f/index.mpd?sig=744799c12cda64647fe1cae97855d359&ext_start_limit=1759939887&int_start_limit=1759939887&ts=1759939887&c=121779152
 
 
 
@@ -1985,13 +1965,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_
 
 
 
-
 #EXTINF:-1 tvg-id="中國中央電視台中文國際頻道" tvg-name="中國中央電視台中文國際頻道" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cctv4.png" group-title="HONGKONG",中國中央電視台中文國際頻道-CCTV-4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b2762e6912e2f37a1cad1df9af6dc6e:f4edc1240a3e852661c0607db463a6dd
 https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_CC4_h264_1.stream/manifest.mpd?sig=bd7cf5fbcdb6e9c78d23b63d8157f83e&ext_start_limit=1759939888&int_start_limit=1759939888&ts=1759939888&c=121779152
-
 
 
 
@@ -2007,7 +1985,6 @@ https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CCE_h264_1.st
 
 
 
-
 #EXTINF:-1 tvg-id="中國中央電視台戲曲頻道" tvg-name="中國中央電視台戲曲頻道" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/cctv.png" group-title="HONGKONG",中國中央電視台戲曲頻道-CCTV OPERA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2018,13 +1995,11 @@ https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_CCO_h264_1.st
 
 
 
-
 #EXTINF:-1 tvg-id="CGTN (中國環球電視網)記錄頻道" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cgtndocumentary.png" group-title="HONGKONG",CGTN (中國環球電視網)記錄頻道-CGTN DOCUMENTARY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=9551db6645a026b65bb0b9e31bc5c359&ext_start_limit=1759939889&int_start_limit=1759939889&ts=1759939889&c=121779152
-
 
 
 
