@@ -6,8 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"Eh8nDF6mtpC+3X5KV/Lwxg", "kid":"KxobcCbOSzeKvUsmaql4Dw" }], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroAEC.my" ch-number=" " tvg-name="Astro AEC HD" ch-number="AstroAEC" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AEC.png" group-title="TV CHINESE",306 Astro AEC 
-https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
-
+https://l04.dp.sooka.my/2400/linear/index.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
