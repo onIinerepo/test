@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="[unifitv.com.my](https://unifitv.com.my/logo/tv3.png)" group-title="Malaysia",TV3 (Unifi TV)
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://unifitv.com.my/logo/tv3.png" group-title="Malaysia",TV3 Unifi TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://<your-license-proxy>|Content-Type=application/octet-stream|R{SSM}|
-#EXTVLCOPT:http-referrer=[unifitv.com.my](https://unifitv.com.my/)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+#EXTVLCOPT:http-referrer=https://unifitv.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-[ngtv-live-cbj.gcdn.co](https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd?hdntl={TOKEN})
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd?hdntl=eyJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIn0..wbG4ar6NVLLKJA4_.3CqQoU5BejENyQ2O-iMOoQjvMouzRwJ2fh-Xqw6OTRKr3Yda-adXNYmSPBvur2gfyT1IEi4JYidgfZsNkAc_BuNQVQCrphkuu9JjQTwKqOx3DjRHIHZ021oAJK5JUi8miv4DHc7bRoLGY_MtfETIfUA7h1Z_d4-eGAUQT44e77ecwh56qmprcyOoV-yrJtiTvWyemdBvXJ9KZ5Bq677zFYPT2Id3yd5JgNnbDPwOFcyOegXm0a0SqybYbLgacHYH7JpudAJ10rw1o67PUjayNYK2o4iBcRXoVQqJsUxWzNu1OJRQ5nvrynWuxa-MTc7qTlAgbNkK3twrqFxI_MhQbvXCxJZ1smTIWhyjWXKDbk0e0FgVr4J7IcLBKCZfZawFZ_iCVvYyFHmkae4BICdSBhFlvbnJy3QpjF9x38-SZwfahM6d6AycSdLP0l73IMAsi5wT5WHB266hw28dl6SnOtfzShq0hrTQlzzmipFbKrqS2aEmD6vyc9EFCqDrJB-XaRgi2ThpLKJ1hC6g_5XFcDY0dgyyoQN8w0D7bRrX0bOaFImz10gyIfNgo_NLcPg5Xte8a2vFslTSHhGBLVQALEGUDPDg8rNeBxHgz928TAxN0oykxrfnhGcuXh-LUYOubr3gpXXaiWgTdobIWVd07isDjDuaEiNTNcqf-IbHt1hym3Rgxo3PoSIRBmySoGaqyFdhGl6V2_EmC4DDsd-_YZqfMgoXvdo-FvOFsSnQtHctDCbLNMXANDka3Ydq_idPu2A6bDwLuzBVgU51xcNoTOADopPujIuqPFV5V6F8oAnccT5oeP_6wFWsAl7x3Aw.izPDBQ5-CkdJax2_cHqU8g
