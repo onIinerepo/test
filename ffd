@@ -26,7 +26,22 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd?hdntl=st
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://unifitv.com.my/logo/tv3.png" group-title="Malaysia",TV3 Unifi TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/oQ8Ekv; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd
+
+
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://unifitv.com.my/logo/tv3.png" group-title="Malaysia",TV3 Unifi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/oQ8Ekv; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd?hdntl=st=1790481643~exp=1790571643~acl=/Content/DASH/Live/channel(TV3)/*~id=NiAdbwdkVBAogeDaoLbo5h1g6e6Kgl91LzpEPAUOlitO1A~hmac=b618eddffe9c1a3c101efe1e3b7a9c056fe7b2eaa87404f257e395b8e9e28d81
+
+
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://unifitv.com.my/logo/tv3.png" group-title="Malaysia",TV3 Unifi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/oQ8Ekv; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd?&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 
 
